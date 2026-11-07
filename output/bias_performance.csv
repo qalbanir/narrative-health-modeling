@@ -1,0 +1,11 @@
+HSI outcome,MAE_White,MAE_Black,delta_MAE,p_permutation,cohens_d
+Physical functioning,0.601,0.768,0.167,9.999000099990002e-05,0.292
+Role limitations due to physical health,0.661,0.806,0.145,0.0018998100189981002,0.215
+Role limitations due to emotional problems,0.594,0.74,0.146,0.0047995200479952005,0.192
+Energy/fatigue,0.785,0.737,-0.048,0.22317768223177684,-0.083
+Emotional well-being,0.697,0.753,0.056,0.21737826217378262,0.082
+Social Functioning,0.697,0.785,0.088,0.031996800319968,0.147
+Pain,0.69,0.86,0.17,9.999000099990002e-05,0.302
+General health,0.71,0.759,0.049,0.18148185181481852,0.09
+Physical Health Composite,0.625,0.728,0.104,0.0058994100589941,0.187
+Mental Health Composite,0.619,0.692,0.073,0.10618938106189381,0.109

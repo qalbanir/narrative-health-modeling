@@ -1,0 +1,70 @@
+**Supplemental Table 1**
+*Correlations Between LIWC Scores and HSI Scores Across Races*
+
+| HSI scale | Positive | r | Negative | r | Positive | r | Negative | r |
+| | *White* | | | | *Black* | | | |
+|---|---|---|---|---|---|---|---|---|
+| Physical functioning | tone_pos | 0.12 | illness | -0.28 |  |  | Physical | -0.27 |
+|  |  |  | Physical | -0.27 |  |  | illness | -0.24 |
+|  |  |  | health | -0.22 |  |  | health | -0.23 |
+|  |  |  |  |  |  |  | emo_neg | -0.20 |
+|  |  |  |  |  |  |  | feeling | -0.13 |
+|  |  |  |  |  |  |  | mental | -0.10 |
+| Role limitations due to physical health |  |  | Physical | -0.27 | tone_pos | 0.13 | Physical | -0.28 |
+|  |  |  | health | -0.23 |  |  | health | -0.23 |
+|  |  |  | illness | -0.22 |  |  | illness | -0.22 |
+|  |  |  | emo_neg | -0.10 |  |  | mental | -0.13 |
+|  |  |  |  |  |  |  | wellness | -0.11 |
+|  |  |  |  |  |  |  | emo_neg | -0.10 |
+| Role limitations due to emotional problems | emo_pos | 0.09 | Physical | -0.26 |  |  | Physical | -0.21 |
+|  |  |  | illness | -0.26 |  |  | health | -0.15 |
+|  |  |  | health | -0.25 |  |  | illness | -0.14 |
+|  |  |  | emo_neg | -0.13 |  |  | mental | -0.11 |
+|  |  |  | mental | -0.12 |  |  | feeling | -0.11 |
+|  |  |  | feeling | -0.10 |  |  |  |  |
+| Energy/fatigue | tone_pos | 0.11 | Physical | -0.26 |  |  | Physical | -0.18 |
+|  |  |  | health | -0.25 |  |  | emo_neg | -0.15 |
+|  |  |  | illness | -0.22 |  |  | health | -0.14 |
+|  |  |  | emo_neg | -0.20 |  |  | illness | -0.14 |
+|  |  |  | mental | -0.12 |  |  | mental | -0.11 |
+|  |  |  | emo_anx | -0.11 |  |  |  |  |
+| Emotional well-being |  |  | emo_neg | -0.25 |  |  | Physical | -0.15 |
+|  |  |  | Physical | -0.23 |  |  | emo_neg | -0.15 |
+|  |  |  | health | -0.21 |  |  | feeling | -0.14 |
+|  |  |  | illness | -0.20 |  |  | illness | -0.13 |
+|  |  |  | emo_anx | -0.14 |  |  | health | -0.10 |
+|  |  |  | feeling | -0.13 |  |  |  |  |
+| Social Functioning |  |  | Physical | -0.36 |  |  | illness | -0.21 |
+|  |  |  | illness | -0.33 |  |  | Physical | -0.20 |
+|  |  |  | health | -0.32 |  |  | health | -0.16 |
+|  |  |  | emo_neg | -0.21 |  |  | emo_neg | -0.14 |
+|  |  |  | feeling | -0.13 |  |  |  |  |
+|  |  |  | mental | -0.11 |  |  |  |  |
+|  |  |  | wellness | -0.09 |  |  |  |  |
+| Pain | tone_pos | 0.12 | Physical | -0.30 |  |  | Physical | -0.20 |
+|  |  |  | illness | -0.29 |  |  | health | -0.18 |
+|  |  |  | health | -0.22 |  |  | emo_neg | -0.18 |
+|  |  |  | emo_neg | -0.17 |  |  | illness | -0.17 |
+| General health | tone_pos | 0.10 | illness | -0.31 |  |  | health | -0.22 |
+|  | emo_pos | 0.10 | Physical | -0.28 |  |  | illness | -0.21 |
+|  |  |  | health | -0.25 |  |  | Physical | -0.21 |
+|  |  |  | emo_neg | -0.20 |  |  | emo_neg | -0.18 |
+|  |  |  | emo_anx | -0.12 |  |  | mental | -0.10 |
+|  |  |  |  |  |  |  | fatigue | -0.10 |
+|  |  |  |  |  |  |  | feeling | -0.10 |
+| Physical Health Composite | tone_pos | 0.12 | Physical | -0.33 | tone_pos | 0.11 | Physical | -0.29 |
+|  |  |  | illness | -0.32 |  |  | health | -0.25 |
+|  |  |  | health | -0.27 |  |  | illness | -0.25 |
+|  |  |  | emo_neg | -0.16 |  |  | emo_neg | -0.17 |
+|  |  |  |  |  |  |  | mental | -0.12 |
+|  |  |  |  |  |  |  | feeling | -0.10 |
+| Mental Health Composite |  |  | Physical | -0.34 |  |  | Physical | -0.23 |
+|  |  |  | health | -0.31 |  |  | illness | -0.19 |
+|  |  |  | illness | -0.31 |  |  | health | -0.17 |
+|  |  |  | emo_neg | -0.23 |  |  | emo_neg | -0.14 |
+|  |  |  | mental | -0.14 |  |  | mental | -0.12 |
+|  |  |  | feeling | -0.13 |  |  | feeling | -0.11 |
+|  |  |  | emo_anx | -0.10 |  |  |  |  |
+|  |  |  | wellness | -0.09 |  |  |  |  |
+
+Note. All correlations significant at p < .05. N = 900 (450 Black, 450 White). LIWC categories are listed under the race and direction in which they reached significance, ordered by descending |r|. Higher HSI scores indicate better health, so a negative correlation means more of that language accompanies worse health. emo_neg = Negative emotion, emo_anx = Anxiety, emo_sad = Sadness, emo_pos = Positive emotion, tone_pos = Positive tone.

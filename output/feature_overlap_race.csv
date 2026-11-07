@@ -1,0 +1,16 @@
+construct,kind,n_categories,"r(predictive power, race-marking power)",p
+Neuroticism,FFM trait,116,0.003,0.9738828629897444
+Extraversion,FFM trait,116,0.042,0.6526587582681077
+Openness,FFM trait,116,0.135,0.14944342141485317
+Agreeableness,FFM trait,116,-0.036,0.700694728653766
+Conscientiousness,FFM trait,116,-0.185,0.04633492590341665
+Physical functioning,HSI outcome,116,0.256,0.005605848777397004
+Role limitations due to physical health,HSI outcome,116,0.22,0.017636425012532483
+Role limitations due to emotional problems,HSI outcome,116,0.096,0.3041897446756756
+Energy/fatigue,HSI outcome,116,-0.01,0.9122342962821767
+Emotional well-being,HSI outcome,116,0.087,0.35539013806247627
+Social Functioning,HSI outcome,116,0.182,0.05041052188320803
+Pain,HSI outcome,116,0.206,0.02674721713774271
+General health,HSI outcome,116,0.16,0.08576466329476244
+Physical Health Composite,HSI outcome,116,0.225,0.015182747429010957
+Mental Health Composite,HSI outcome,116,0.093,0.31926521720550716

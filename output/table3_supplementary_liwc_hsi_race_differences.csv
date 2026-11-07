@@ -1,0 +1,5 @@
+HSI subscale,LIWC variable,N_White,r_White,p_White,N_Black,r_Black,p_Black,z,p
+Physical functioning,emo_sad,448,0.08,.083,445,-0.07,.123,-2.32,.021
+Social Functioning,Physical,448,-0.36,< .001,446,-0.20,< .001,2.62,.009
+,Health,448,-0.32,< .001,446,-0.16,< .001,2.61,.009
+Mental Health Composite,Health,447,-0.31,< .001,444,-0.17,< .001,2.27,.023

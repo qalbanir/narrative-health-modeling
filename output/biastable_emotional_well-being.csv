@@ -1,0 +1,14 @@
+Accuracy,RMSE,R2,r,Mean Bias,Mean_true,Mean_pred,Var_true,Var_pred,F,df1,df2,p
+White,0.951,0.019,0.24,-0.164,-0.034,0.13,0.925,0.104,1.77,1,890,.184
+Black,1.033,0.008,0.202,-0.141,0.034,0.175,1.078,0.114,,,,
+,,,,,,,,,,,,
+Performance Bias,MAE,delta_MAE,p,Cohen's d,,,,,,,,
+White,0.697,0.056,.217,0.082,,,,,,,,
+Black,0.753,,,,,,,,,,,
+,,,,,,,,,,,,
+Directional Bias,b1,p,partial R2,,,,,,,,,
+,-0.04,.063,0.004,,,,,,,,,
+,,,,,,,,,,,,
+Calibration,Slope,p,,,,,,,,,,
+White,0.716,.040,,,,,,,,,,
+Black,0.623,.009,,,,,,,,,,

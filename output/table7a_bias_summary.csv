@@ -1,0 +1,7 @@
+Bias component,Question,Outcomes differing (BH q < .05),Pattern
+Discrimination,Does the model rank people equally well?,0 of 10,No difference on any outcome
+Mean-level bias,Does it center each group correctly?,0 of 10,No difference on any outcome
+Calibration slope,Is the prediction scale the same?,0 of 10,No difference on any outcome; slopes attenuated below 1 in both groups on 7 of 10
+Observed dispersion,Are observed scores equally spread?,6 of 10,Black scores more variable on 9 of 10
+Error magnitude,Are errors equally large?,5 of 10,"Larger for Black participants; a subset of the dispersion differences (5 of 5), r(Var ratio, dMAE) = 0.95"
+Directional offset,Do errors lean one way by race?,8 of 10,"Tracks the observed group gap on each scale, r = 0.93, same sign on 10 of 10; mean b is 70% of that gap"

@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+# Narrative transcripts and any participant-level data must never be committed.
+model_data/
+*.xlsx
+liwcpsmfile*.csv
+PHSI*
+PDEMO*

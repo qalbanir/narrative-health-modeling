@@ -1,0 +1,1161 @@
+RAND-36 outcome,LIWC category,r White,r Black,z,p
+Physical functioning,focuspast,-0.167,0.016,-2.754,0.0058850431933217
+Physical functioning,focuspresent,0.066,-0.111,2.655,0.007938644072531
+Physical functioning,Lifestyle,0.081,0.242,-2.471,0.0134753496245223
+Physical functioning,work,0.068,0.223,-2.365,0.0180233050747617
+Physical functioning,verb,0.023,-0.134,2.359,0.0183387589361929
+Physical functioning,emotion,0.039,-0.118,2.346,0.0189707107630818
+Physical functioning,focusfuture,0.077,-0.079,2.334,0.019573681757836
+Physical functioning,emo_sad,0.082,-0.073,2.316,0.0205587923413177
+Physical functioning,auxverb,0.084,-0.063,2.197,0.0280143536723487
+Physical functioning,discrep,0.087,-0.053,2.076,0.0378989649188541
+Physical functioning,allure,0.062,-0.076,2.054,0.0399368550076304
+Physical functioning,food,-0.006,-0.142,2.043,0.0410361967551413
+Physical functioning,pronoun,-0.058,-0.192,2.023,0.0430438949963849
+Physical functioning,swear,-0.013,-0.138,1.869,0.0615703391634023
+Physical functioning,adverb,0.022,0.144,-1.832,0.0669612978402529
+Physical functioning,Linguistic,-0.006,-0.126,1.794,0.0728002943516126
+Physical functioning,emo_anger,0.007,-0.113,1.793,0.0730189924074238
+Physical functioning,mental,0.012,-0.103,1.722,0.0850885663964207
+Physical functioning,differ,0.058,-0.055,1.696,0.0899234010830665
+Physical functioning,number,-0.078,0.035,-1.694,0.0902305114167323
+Physical functioning,emo_pos,0.09,-0.018,1.626,0.1040334078578886
+Physical functioning,Apostro,-0.048,-0.155,1.611,0.1071697022047901
+Physical functioning,need,-0.114,-0.007,-1.593,0.1112645873606448
+Physical functioning,they,-0.078,-0.183,1.592,0.1113746065811374
+Physical functioning,emo_neg,-0.091,-0.195,1.577,0.1147376425337909
+Physical functioning,Social,-0.03,-0.135,1.577,0.1147494082931603
+Physical functioning,ppron,-0.097,-0.2,1.571,0.1161110938444787
+Physical functioning,you,0.054,-0.05,1.546,0.1222002251251879
+Physical functioning,polite,0.01,-0.092,1.513,0.1303904523118093
+Physical functioning,achieve,-0.008,0.091,-1.484,0.1377777569204201
+Physical functioning,conj,-0.131,-0.032,-1.473,0.1407270060039691
+Physical functioning,certitude,0.113,0.207,-1.441,0.1494606303640284
+Physical functioning,Dic,-0.013,-0.108,1.419,0.1560047062337506
+Physical functioning,filler,0.046,0.139,-1.391,0.1642893269341012
+Physical functioning,socbehav,0.013,-0.076,1.336,0.1814999191153998
+Physical functioning,wellness,0.055,-0.034,1.324,0.185591122751036
+Physical functioning,friend,0.053,-0.036,1.32,0.1866761074931862
+Physical functioning,negate,-0.019,-0.107,1.316,0.1882218974832337
+Physical functioning,feeling,-0.039,-0.127,1.315,0.1885808247222318
+Physical functioning,BigWords,0.15,0.233,-1.296,0.1950944533453738
+Physical functioning,socrefs,-0.043,-0.128,1.273,0.203025445872931
+Physical functioning,function,-0.035,-0.119,1.258,0.2085716332829748
+Physical functioning,cogproc,0.161,0.078,1.25,0.2114556910711549
+Physical functioning,QMark,0.042,-0.04,1.222,0.2218415800476738
+Physical functioning,Cognition,0.131,0.052,1.18,0.2381886495178682
+Physical functioning,Affect,0.017,-0.06,1.146,0.2517886503969473
+Physical functioning,Culture,-0.013,0.063,-1.137,0.2556848928635558
+Physical functioning,Exclam,0.005,0.075,-1.051,0.2930688237072978
+Physical functioning,time,-0.061,0.009,-1.03,0.3031862305949313
+Physical functioning,fulfill,-0.028,0.039,-0.999,0.3177020311602778
+Physical functioning,tech,-0.059,0.008,-0.997,0.3189232423666617
+Physical functioning,want,0.016,-0.05,0.991,0.3217242734653078
+Physical functioning,home,-0.094,-0.028,-0.989,0.3228042342244408
+Physical functioning,relig,0.043,-0.02,0.942,0.3462615404978746
+Physical functioning,tone_neg,-0.167,-0.227,0.931,0.3519514261331222
+Physical functioning,ipron,0.07,0.009,0.912,0.3619453510378601
+Physical functioning,substances,0.009,-0.05,0.884,0.376464199422597
+Physical functioning,Comma,0.05,0.108,-0.878,0.3798448926546538
+Physical functioning,insight,0.111,0.054,0.858,0.390666601956064
+Physical functioning,memory,-0.078,-0.022,-0.834,0.4041031231759233
+Physical functioning,risk,-0.065,-0.117,0.785,0.4322708097953929
+Physical functioning,shehe,-0.183,-0.132,-0.78,0.4353759558998633
+Physical functioning,space,-0.072,-0.024,-0.731,0.4646995851563988
+Physical functioning,Conversation,-0.055,-0.007,-0.71,0.4778765373971225
+Physical functioning,money,0.044,0.091,-0.692,0.4888172191283468
+Physical functioning,lack,0.022,0.067,-0.675,0.4998524960301482
+Physical functioning,illness,-0.278,-0.236,-0.671,0.5023412838250789
+Physical functioning,Drives,0.058,0.102,-0.66,0.5089906128236072
+Physical functioning,motion,-0.05,-0.094,0.649,0.5165979156339962
+Physical functioning,Analytic,0.069,0.112,-0.645,0.5190642461156845
+Physical functioning,prosocial,0.007,0.048,-0.615,0.5384515525433902
+Physical functioning,female,-0.108,-0.071,-0.556,0.5779485078887592
+Physical functioning,visual,0.018,-0.018,0.534,0.5936560168752363
+Physical functioning,tone_pos,0.12,0.085,0.53,0.5960665042106301
+Physical functioning,assent,-0.033,0.002,-0.527,0.5979127859268134
+Physical functioning,netspeak,-0.092,-0.058,-0.517,0.6048880660994844
+Physical functioning,article,0.043,0.077,-0.504,0.6140356002995597
+Physical functioning,reward,0.078,0.046,0.474,0.6353906215898533
+Physical functioning,comm,-0.033,-0.065,0.472,0.6366254347073137
+Physical functioning,i,-0.057,-0.086,0.438,0.6611982829552951
+Physical functioning,power,0.003,0.031,-0.422,0.6731832484777875
+Physical functioning,det,0.07,0.043,0.411,0.680963350649485
+Physical functioning,Clout,0.019,-0.006,0.379,0.7049238143350565
+Physical functioning,we,0.083,0.058,0.374,0.7084567063785392
+Physical functioning,emo_anx,-0.048,-0.072,0.358,0.72061475563838
+Physical functioning,ethnicity,0.037,0.061,-0.358,0.7202487473015098
+Physical functioning,male,-0.125,-0.148,0.348,0.7276840120243504
+Physical functioning,quantity,0.07,0.047,0.344,0.7310814294976686
+Physical functioning,Authentic,0.019,-0.003,0.336,0.736800936428778
+Physical functioning,politic,0.036,0.058,-0.336,0.7369167152074121
+Physical functioning,auditory,0.069,0.048,0.307,0.7591080735619196
+Physical functioning,tentat,0.094,0.113,-0.293,0.7696261696026054
+Physical functioning,OtherP,-0.013,-0.032,0.281,0.7790282931032781
+Physical functioning,adj,0.109,0.127,-0.28,0.7793546907335296
+Physical functioning,AllPunc,0.018,0.002,0.24,0.8104672166150342
+Physical functioning,cause,-0.009,-0.025,0.236,0.8137941298791316
+Physical functioning,nonflu,-0.004,0.011,-0.226,0.8215783271897437
+Physical functioning,allnone,-0.081,-0.096,0.223,0.8234231764238518
+Physical functioning,Period,0.005,-0.006,0.17,0.8647864809254542
+Physical functioning,conflict,-0.13,-0.119,-0.168,0.8663525327142942
+Physical functioning,attention,0.072,0.061,0.168,0.866211551746042
+Physical functioning,moral,-0.036,-0.025,-0.161,0.8718969542914599
+Physical functioning,WPS,0.035,0.026,0.134,0.8930874600710863
+Physical functioning,family,-0.011,-0.019,0.119,0.9053796910020364
+Physical functioning,prep,0.017,0.025,-0.116,0.907357670437254
+Physical functioning,Perception,-0.059,-0.053,-0.093,0.926257189597946
+Physical functioning,death,-0.073,-0.067,-0.084,0.9326635560611858
+Physical functioning,fatigue,-0.009,-0.003,-0.08,0.9361854402928772
+Physical functioning,curiosity,0.123,0.127,-0.062,0.9502151512329722
+Physical functioning,health,-0.224,-0.227,0.05,0.9603003770371104
+Physical functioning,affiliation,0.064,0.062,0.039,0.969255427449664
+Physical functioning,acquire,-0.125,-0.123,-0.032,0.9745762324831936
+Physical functioning,leisure,0.115,0.114,0.026,0.9790764438739594
+Physical functioning,Physical,-0.275,-0.274,-0.017,0.9867698394306804
+Physical functioning,Tone,0.197,0.197,0.002,0.9983506332555804
+Physical functioning,sexual,-0.041,-0.042,0.001,0.9988152525277564
+Role limitations due to physical health,swear,-0.029,-0.172,2.158,0.0309198904785512
+Role limitations due to physical health,focusfuture,0.038,-0.096,2.011,0.044349492444043
+Role limitations due to physical health,certitude,0.04,0.173,-1.997,0.0458098677197111
+Role limitations due to physical health,auxverb,0.051,-0.078,1.938,0.0526359590571243
+Role limitations due to physical health,attention,0.072,-0.052,1.861,0.0627331632233563
+Role limitations due to physical health,they,-0.027,-0.146,1.786,0.0741734467602166
+Role limitations due to physical health,polite,0.014,-0.102,1.732,0.0833477585017932
+Role limitations due to physical health,money,0.025,0.137,-1.668,0.0952694816923778
+Role limitations due to physical health,adverb,0.001,0.107,-1.586,0.1127466476081533
+Role limitations due to physical health,discrep,0.053,-0.051,1.551,0.1209620886875808
+Role limitations due to physical health,verb,-0.012,-0.115,1.542,0.1231836946383813
+Role limitations due to physical health,wellness,-0.011,-0.11,1.485,0.1375681359744218
+Role limitations due to physical health,focuspast,-0.072,0.025,-1.444,0.1486863859257134
+Role limitations due to physical health,BigWords,0.08,0.171,-1.392,0.1640639433314186
+Role limitations due to physical health,mental,-0.042,-0.131,1.344,0.1789259692566207
+Role limitations due to physical health,emo_sad,0.068,-0.02,1.312,0.1896792433101033
+Role limitations due to physical health,leisure,0.074,0.159,-1.292,0.1963449063670794
+Role limitations due to physical health,ppron,-0.077,-0.158,1.216,0.2241084629254057
+Role limitations due to physical health,number,-0.018,0.061,-1.184,0.2364959882314115
+Role limitations due to physical health,auditory,0.005,0.08,-1.127,0.2596376268401101
+Role limitations due to physical health,filler,0.042,0.116,-1.106,0.2688921719530222
+Role limitations due to physical health,fatigue,0.017,-0.057,1.101,0.271086952252686
+Role limitations due to physical health,Lifestyle,0.151,0.221,-1.087,0.2769495275360683
+Role limitations due to physical health,Linguistic,-0.032,-0.104,1.085,0.2779567453964597
+Role limitations due to physical health,moral,-0.085,-0.013,-1.077,0.2816903841475837
+Role limitations due to physical health,allure,0.038,-0.032,1.044,0.2962868481444691
+Role limitations due to physical health,QMark,0.037,-0.032,1.035,0.3005593873595902
+Role limitations due to physical health,prosocial,0.005,0.074,-1.034,0.3011145271077597
+Role limitations due to physical health,focuspresent,-0.014,-0.083,1.028,0.3037585336525126
+Role limitations due to physical health,socbehav,-0.012,-0.08,1.012,0.3116477149626524
+Role limitations due to physical health,substances,-0.068,-0.001,-0.999,0.3175752789226593
+Role limitations due to physical health,Culture,0.004,0.071,-0.995,0.3194970882450452
+Role limitations due to physical health,function,-0.05,-0.116,0.994,0.3201813630658625
+Role limitations due to physical health,visual,0.013,-0.053,0.981,0.3263478571547136
+Role limitations due to physical health,family,0.032,-0.032,0.954,0.3403144430146114
+Role limitations due to physical health,shehe,-0.161,-0.099,-0.926,0.3545184091000231
+Role limitations due to physical health,want,0.026,-0.036,0.923,0.3561210887360748
+Role limitations due to physical health,comm,-0.033,-0.095,0.922,0.3565772292645919
+Role limitations due to physical health,tech,-0.026,0.035,-0.91,0.3629645371792804
+Role limitations due to physical health,food,-0.059,-0.119,0.902,0.366810754380406
+Role limitations due to physical health,risk,-0.047,0.009,-0.84,0.4007600907138025
+Role limitations due to physical health,emo_anger,-0.057,-0.112,0.83,0.4067702737930831
+Role limitations due to physical health,i,-0.042,-0.097,0.82,0.4119526602180325
+Role limitations due to physical health,prep,0.029,-0.026,0.815,0.4149002917618136
+Role limitations due to physical health,Social,-0.024,-0.078,0.81,0.4178315912285268
+Role limitations due to physical health,pronoun,-0.087,-0.141,0.808,0.4191014674408277
+Role limitations due to physical health,ipron,-0.027,0.027,-0.805,0.4210933542111728
+Role limitations due to physical health,tone_pos,0.082,0.131,-0.749,0.454094256207245
+Role limitations due to physical health,friend,0.09,0.041,0.733,0.463498761071657
+Role limitations due to physical health,nonflu,-0.028,0.021,-0.729,0.4657571754525442
+Role limitations due to physical health,work,0.146,0.193,-0.72,0.4712641505248145
+Role limitations due to physical health,Affect,-0.029,0.017,-0.677,0.4983864677455112
+Role limitations due to physical health,relig,0.0,-0.043,0.652,0.514678633233693
+Role limitations due to physical health,you,0.032,-0.011,0.637,0.524023757077213
+Role limitations due to physical health,tentat,0.046,0.088,-0.631,0.5281922486749862
+Role limitations due to physical health,power,0.034,-0.009,0.626,0.5312853610971031
+Role limitations due to physical health,Perception,-0.039,-0.079,0.599,0.5491300839211146
+Role limitations due to physical health,socrefs,-0.027,-0.066,0.579,0.5624927317197792
+Role limitations due to physical health,ethnicity,-0.014,0.023,-0.557,0.5774319869963533
+Role limitations due to physical health,time,0.003,0.039,-0.542,0.5880854452868041
+Role limitations due to physical health,Apostro,-0.059,-0.095,0.542,0.5879697650669713
+Role limitations due to physical health,lack,0.014,0.05,-0.538,0.5907604010036389
+Role limitations due to physical health,Authentic,0.01,-0.025,0.509,0.610590346297543
+Role limitations due to physical health,space,-0.018,-0.052,0.508,0.6111314656508768
+Role limitations due to physical health,conj,-0.055,-0.022,-0.495,0.6207904570957017
+Role limitations due to physical health,Dic,-0.02,-0.052,0.479,0.631768035532712
+Role limitations due to physical health,Exclam,0.03,0.06,-0.443,0.6575421637954539
+Role limitations due to physical health,tone_neg,-0.187,-0.16,-0.419,0.6752187433146668
+Role limitations due to physical health,death,-0.032,-0.06,0.407,0.6841816542728285
+Role limitations due to physical health,negate,-0.056,-0.082,0.399,0.6901580338440987
+Role limitations due to physical health,female,-0.09,-0.064,-0.391,0.6956538951806315
+Role limitations due to physical health,cogproc,0.054,0.08,-0.378,0.7055971710204663
+Role limitations due to physical health,Cognition,0.045,0.069,-0.363,0.7163730239170267
+Role limitations due to physical health,motion,-0.072,-0.095,0.346,0.7291560297413486
+Role limitations due to physical health,OtherP,-0.031,-0.053,0.319,0.749990242834834
+Role limitations due to physical health,adj,0.1,0.121,-0.316,0.7516511313584839
+Role limitations due to physical health,insight,0.037,0.058,-0.311,0.7554234625919305
+Role limitations due to physical health,reward,0.027,0.007,0.3,0.7638126637381324
+Role limitations due to physical health,memory,-0.066,-0.047,-0.286,0.7745376587919772
+Role limitations due to physical health,home,-0.019,-0.037,0.27,0.7874600897100386
+Role limitations due to physical health,Period,-0.001,0.016,-0.257,0.7968421578084426
+Role limitations due to physical health,politic,0.05,0.067,-0.254,0.799690033255928
+Role limitations due to physical health,det,0.061,0.044,0.251,0.8020856337125513
+Role limitations due to physical health,Tone,0.179,0.195,-0.244,0.807385164336766
+Role limitations due to physical health,conflict,-0.144,-0.129,-0.235,0.8142077851895724
+Role limitations due to physical health,quantity,0.052,0.067,-0.222,0.8239984001748322
+Role limitations due to physical health,male,-0.101,-0.114,0.196,0.8447650441666688
+Role limitations due to physical health,acquire,-0.139,-0.127,-0.175,0.860702062123561
+Role limitations due to physical health,achieve,0.053,0.064,-0.162,0.8713323634840213
+Role limitations due to physical health,WPS,0.005,0.016,-0.16,0.8727770806752151
+Role limitations due to physical health,need,-0.031,-0.04,0.143,0.8861052608389586
+Role limitations due to physical health,AllPunc,0.002,-0.008,0.143,0.8864737235403557
+Role limitations due to physical health,Physical,-0.273,-0.282,0.14,0.8882743712268968
+Role limitations due to physical health,differ,-0.008,-0.017,0.138,0.8905546661809107
+Role limitations due to physical health,Conversation,-0.032,-0.024,-0.127,0.898795669204925
+Role limitations due to physical health,curiosity,0.06,0.068,-0.122,0.9030781326370928
+Role limitations due to physical health,article,0.056,0.064,-0.114,0.9092983937858314
+Role limitations due to physical health,netspeak,-0.083,-0.09,0.105,0.9161307397347576
+Role limitations due to physical health,assent,-0.008,-0.001,-0.104,0.9169020613275872
+Role limitations due to physical health,Drives,0.105,0.099,0.1,0.920190514800364
+Role limitations due to physical health,health,-0.233,-0.227,-0.092,0.9270290309033742
+Role limitations due to physical health,allnone,-0.033,-0.027,-0.091,0.9278558838640152
+Role limitations due to physical health,we,0.074,0.069,0.081,0.9351092318709492
+Role limitations due to physical health,emo_neg,-0.095,-0.1,0.077,0.9389506082762842
+Role limitations due to physical health,emo_anx,-0.011,-0.007,-0.073,0.9418661880311344
+Role limitations due to physical health,cause,-0.016,-0.011,-0.072,0.9427927339838424
+Role limitations due to physical health,feeling,-0.067,-0.072,0.07,0.9444381688253072
+Role limitations due to physical health,affiliation,0.08,0.084,-0.065,0.9479847760241384
+Role limitations due to physical health,fulfill,-0.012,-0.009,-0.052,0.9587967965096524
+Role limitations due to physical health,emotion,-0.039,-0.042,0.05,0.960113102785776
+Role limitations due to physical health,emo_pos,0.015,0.012,0.049,0.960839315480288
+Role limitations due to physical health,sexual,-0.02,-0.022,0.03,0.976114003982345
+Role limitations due to physical health,Comma,0.039,0.04,-0.024,0.9810404142181386
+Role limitations due to physical health,illness,-0.224,-0.223,-0.023,0.981648513987386
+Role limitations due to physical health,Clout,0.036,0.037,-0.017,0.9863645094212712
+Role limitations due to physical health,Analytic,0.074,0.074,-0.001,0.9990352573496496
+Pain,auxverb,0.088,-0.121,3.124,0.0017859474693007
+Pain,focusfuture,0.078,-0.083,2.401,0.0163593073270702
+Pain,focuspast,-0.15,0.002,-2.285,0.0223372773528371
+Pain,Dic,0.021,-0.121,2.126,0.0334882480080662
+Pain,function,-0.005,-0.14,2.031,0.0422455208322642
+Pain,allure,0.03,-0.106,2.03,0.0423194200225449
+Pain,focuspresent,0.034,-0.102,2.029,0.042465721023543
+Pain,Linguistic,0.001,-0.134,2.024,0.0430066281828318
+Pain,verb,-0.021,-0.153,1.977,0.048092052537592
+Pain,discrep,0.121,-0.007,1.917,0.0552887154205807
+Pain,illness,-0.286,-0.171,-1.802,0.0715187641109245
+Pain,pronoun,-0.085,-0.194,1.652,0.098528840607666
+Pain,Physical,-0.299,-0.197,-1.631,0.1029696183109329
+Pain,cause,-0.067,0.041,-1.612,0.1070557571806105
+Pain,mental,0.036,-0.07,1.585,0.1128679937912033
+Pain,QMark,0.084,-0.022,1.584,0.1131139089788155
+Pain,emo_pos,0.077,-0.026,1.536,0.1246298980819613
+Pain,BigWords,0.123,0.223,-1.535,0.1247518532792504
+Pain,tech,-0.036,0.067,-1.532,0.1254933897419323
+Pain,emo_sad,0.057,-0.042,1.47,0.14159673885434
+Pain,Apostro,-0.049,-0.147,1.467,0.1423405105430983
+Pain,socbehav,0.023,-0.069,1.365,0.1721795106925274
+Pain,differ,0.049,-0.04,1.326,0.1846840102338505
+Pain,want,0.056,-0.032,1.318,0.1873427729205063
+Pain,work,0.117,0.203,-1.302,0.1928603349128161
+Pain,Lifestyle,0.129,0.213,-1.289,0.1974303423387642
+Pain,ppron,-0.115,-0.198,1.263,0.2064379484194241
+Pain,Analytic,0.033,0.117,-1.256,0.2090515370575774
+Pain,relig,0.019,-0.063,1.223,0.2214690994969603
+Pain,negate,-0.021,-0.101,1.202,0.2294956773881113
+Pain,emotion,-0.042,-0.121,1.195,0.2321922372197078
+Pain,death,-0.063,0.015,-1.167,0.2434083359953269
+Pain,conj,-0.072,0.006,-1.159,0.2464563934279424
+Pain,time,-0.027,0.05,-1.148,0.2509093428171181
+Pain,you,0.039,-0.038,1.142,0.2534260406767248
+Pain,substances,-0.064,0.011,-1.122,0.2620480024712286
+Pain,Tone,0.226,0.154,1.117,0.2638506425448457
+Pain,swear,-0.064,-0.137,1.098,0.2720333224251017
+Pain,achieve,-0.008,0.065,-1.087,0.2770024887382023
+Pain,Drives,0.022,0.091,-1.033,0.3016531282527861
+Pain,money,0.043,0.111,-1.025,0.3054490719790204
+Pain,Culture,0.044,0.109,-0.988,0.3231819701157481
+Pain,conflict,-0.168,-0.104,-0.974,0.3299386991977759
+Pain,AllPunc,0.031,-0.032,0.95,0.3419392556374134
+Pain,shehe,-0.179,-0.118,-0.93,0.3522175225888824
+Pain,Cognition,0.105,0.044,0.906,0.3651435906132005
+Pain,adj,0.168,0.11,0.88,0.3786847330923351
+Pain,cogproc,0.125,0.067,0.875,0.381439997009465
+Pain,visual,-0.045,0.014,-0.875,0.3813290061480261
+Pain,memory,-0.058,-0.001,-0.845,0.3980386200208174
+Pain,number,-0.02,0.036,-0.835,0.4034875403558762
+Pain,motion,-0.051,-0.106,0.831,0.4061838203282724
+Pain,tone_pos,0.116,0.062,0.813,0.4162942212046019
+Pain,certitude,0.078,0.132,-0.805,0.4209460839601529
+Pain,they,-0.07,-0.124,0.804,0.4214099005463971
+Pain,Social,-0.055,-0.108,0.791,0.4289163529803992
+Pain,need,-0.09,-0.038,-0.784,0.4330942359204126
+Pain,emo_anger,-0.087,-0.138,0.763,0.4452795197603274
+Pain,friend,0.046,-0.005,0.76,0.4474010649045481
+Pain,i,-0.07,-0.12,0.751,0.4524577839736734
+Pain,adverb,0.05,0.1,-0.748,0.4542031394301182
+Pain,ipron,0.051,0.002,0.732,0.4639519664977714
+Pain,female,-0.129,-0.081,-0.727,0.4669392220275874
+Pain,OtherP,-0.003,-0.052,0.727,0.4669967369143155
+Pain,wellness,0.036,-0.013,0.721,0.4710432952576351
+Pain,comm,-0.002,-0.05,0.718,0.472970456004214
+Pain,health,-0.223,-0.177,-0.715,0.4746436864456387
+Pain,tone_neg,-0.231,-0.185,-0.712,0.4764341353407868
+Pain,article,0.044,0.091,-0.702,0.4829906486706878
+Pain,polite,-0.029,-0.075,0.689,0.4909923933918616
+Pain,reward,0.029,-0.016,0.668,0.5041231345186867
+Pain,power,0.024,0.068,-0.653,0.5138894997212999
+Pain,insight,0.069,0.027,0.629,0.5291188406998775
+Pain,WPS,0.005,0.047,-0.623,0.5334277038114335
+Pain,acquire,-0.164,-0.123,-0.621,0.5348266317629644
+Pain,moral,-0.062,-0.023,-0.574,0.5657267290120733
+Pain,socrefs,-0.071,-0.106,0.54,0.5891735626964629
+Pain,Exclam,0.033,0.068,-0.523,0.6010616954065866
+Pain,filler,0.026,0.061,-0.522,0.6019833146776281
+Pain,fatigue,-0.013,-0.045,0.476,0.6338463233360938
+Pain,space,-0.048,-0.017,-0.463,0.6431590587825622
+Pain,Affect,-0.03,-0.058,0.43,0.6675301643931091
+Pain,allnone,-0.055,-0.083,0.425,0.6706139066641417
+Pain,Perception,-0.061,-0.033,-0.415,0.6783423223190665
+Pain,affiliation,0.021,0.048,-0.397,0.6914381591694561
+Pain,auditory,0.014,0.04,-0.39,0.6963350701943485
+Pain,leisure,0.109,0.135,-0.382,0.7025305341126362
+Pain,Authentic,0.0,-0.025,0.378,0.7052965209361512
+Pain,attention,0.033,0.008,0.377,0.7061667228097162
+Pain,nonflu,-0.011,0.014,-0.363,0.7163062036692192
+Pain,Period,0.024,0.002,0.34,0.7336085769542615
+Pain,feeling,-0.053,-0.073,0.292,0.7699871794843405
+Pain,det,0.042,0.023,0.287,0.7738453546425395
+Pain,prep,0.04,0.02,0.286,0.7749371659925037
+Pain,prosocial,0.007,0.023,-0.244,0.8070437144377003
+Pain,ethnicity,0.066,0.051,0.236,0.8130530156984888
+Pain,risk,-0.064,-0.05,-0.22,0.8256180842749703
+Pain,Conversation,-0.004,-0.017,0.206,0.8371189952338307
+Pain,fulfill,-0.019,-0.032,0.195,0.8457062223164131
+Pain,tentat,0.112,0.125,-0.194,0.8465365924524231
+Pain,Clout,0.003,0.016,-0.182,0.8554514631634587
+Pain,netspeak,-0.103,-0.092,-0.174,0.861816475042013
+Pain,sexual,-0.044,-0.033,-0.163,0.870293568326105
+Pain,lack,0.026,0.037,-0.157,0.8754132191626594
+Pain,assent,0.029,0.018,0.156,0.8757646660082694
+Pain,Comma,0.043,0.033,0.15,0.8809223394833134
+Pain,family,-0.041,-0.032,-0.139,0.8891250238416257
+Pain,home,-0.053,-0.061,0.128,0.898260755364076
+Pain,male,-0.134,-0.126,-0.114,0.9092263289144924
+Pain,quantity,0.046,0.04,0.099,0.9214116002004562
+Pain,politic,0.091,0.086,0.068,0.9457181304906016
+Pain,curiosity,0.066,0.061,0.066,0.9472614018677944
+Pain,food,-0.07,-0.073,0.043,0.9660199586254528
+Pain,emo_anx,-0.053,-0.051,-0.039,0.9692429866122853
+Pain,we,0.064,0.062,0.038,0.9693420718680654
+Pain,emo_neg,-0.174,-0.177,0.038,0.96946387016562
+General health,motion,0.025,-0.164,2.842,0.0044809132317067
+General health,auxverb,0.053,-0.119,2.567,0.0102648578331396
+General health,female,-0.132,0.024,-2.336,0.0194855131498601
+General health,Linguistic,-0.001,-0.149,2.217,0.0266282896631786
+General health,death,-0.094,0.054,-2.213,0.0269146838808629
+General health,tech,-0.122,0.026,-2.21,0.0271355859727957
+General health,certitude,0.016,0.163,-2.202,0.0276762756969712
+General health,focusfuture,0.067,-0.079,2.182,0.0291389593169382
+General health,swear,-0.026,-0.167,2.126,0.0335336999392457
+General health,focuspresent,0.005,-0.131,2.037,0.041637810514566
+General health,focuspast,-0.118,0.017,-2.024,0.0429308659039573
+General health,allure,0.06,-0.075,2.014,0.0439697975555981
+General health,Culture,-0.068,0.065,-1.981,0.0475790120183681
+General health,number,-0.059,0.07,-1.927,0.0540339172944726
+General health,verb,-0.009,-0.135,1.893,0.0583027527533477
+General health,Drives,0.075,0.198,-1.863,0.0625132467626807
+General health,visual,0.044,-0.08,1.856,0.0635000521684723
+General health,Perception,-0.024,-0.146,1.837,0.0662090463577247
+General health,differ,0.069,-0.052,1.794,0.0728439210638054
+General health,affiliation,0.063,0.179,-1.751,0.0799494726933576
+General health,prosocial,0.023,0.139,-1.741,0.0817139760339098
+General health,function,-0.042,-0.156,1.723,0.0848908916246786
+General health,emo_pos,0.096,-0.014,1.642,0.1006092722434057
+General health,illness,-0.311,-0.213,-1.581,0.1139867990495053
+General health,want,0.066,-0.033,1.478,0.1393524795056258
+General health,ipron,0.039,-0.058,1.453,0.146202044497224
+General health,wellness,0.045,-0.05,1.418,0.1561096293064459
+General health,shehe,-0.167,-0.076,-1.373,0.1696788422645889
+General health,Lifestyle,0.102,0.19,-1.342,0.1797176642145219
+General health,family,0.02,0.107,-1.294,0.1957371515852153
+General health,Authentic,0.078,-0.007,1.279,0.200942017682979
+General health,mental,-0.018,-0.103,1.26,0.2076845966350413
+General health,emo_anx,-0.118,-0.04,-1.177,0.239207867029374
+General health,Comma,-0.009,0.07,-1.177,0.2391671919320801
+General health,emotion,-0.034,-0.111,1.162,0.2452698147021768
+General health,negate,-0.035,-0.11,1.122,0.2616540173490673
+General health,memory,-0.047,0.028,-1.12,0.2626422584748566
+General health,Physical,-0.276,-0.21,-1.04,0.2981499174340238
+General health,fatigue,-0.031,-0.1,1.036,0.2999800545513129
+General health,they,-0.103,-0.171,1.031,0.302564236873398
+General health,achieve,0.019,0.085,-0.988,0.3233638891244668
+General health,socrefs,-0.045,0.02,-0.979,0.3273967952414685
+General health,BigWords,0.133,0.197,-0.969,0.3323576565954935
+General health,attention,0.043,-0.021,0.966,0.3339305522466089
+General health,work,0.104,0.167,-0.958,0.3381171965595504
+General health,sexual,-0.099,-0.036,-0.955,0.3393272020493689
+General health,prep,0.011,-0.053,0.95,0.3419133202373938
+General health,space,-0.042,-0.105,0.942,0.3463464088993386
+General health,Clout,0.008,0.071,-0.939,0.3476305763556484
+General health,leisure,0.079,0.14,-0.928,0.3532654117753204
+General health,Social,-0.025,0.036,-0.912,0.3617255722560071
+General health,curiosity,0.114,0.053,0.906,0.3649495941627969
+General health,substances,-0.056,0.004,-0.896,0.3702098412348196
+General health,conj,-0.051,0.008,-0.882,0.3777982295779332
+General health,Exclam,-0.013,0.047,-0.88,0.3786483182254812
+General health,ethnicity,0.025,0.083,-0.868,0.3854683061731474
+General health,tentat,0.036,0.09,-0.803,0.4218219528318605
+General health,discrep,0.06,0.006,0.802,0.4227634503442501
+General health,OtherP,0.009,-0.042,0.768,0.4425979701261613
+General health,allnone,-0.075,-0.124,0.747,0.4552420729834199
+General health,money,-0.013,0.037,-0.745,0.4559987740156084
+General health,QMark,-0.012,-0.059,0.701,0.4832006361226753
+General health,adverb,0.016,0.061,-0.673,0.5009902201428338
+General health,food,-0.027,-0.072,0.673,0.5011904641016942
+General health,Apostro,-0.104,-0.147,0.658,0.5108098999983219
+General health,moral,-0.056,-0.013,-0.638,0.5234833179548473
+General health,tone_neg,-0.264,-0.225,-0.624,0.5325373984525135
+General health,health,-0.253,-0.215,-0.606,0.5446341766119844
+General health,Tone,0.234,0.198,0.573,0.5665979317600007
+General health,insight,0.065,0.103,-0.57,0.568887956899474
+General health,Analytic,0.05,0.087,-0.554,0.5794584347811025
+General health,adj,0.101,0.066,0.519,0.6038062126910306
+General health,polite,-0.006,-0.04,0.518,0.6044958069638697
+General health,quantity,0.072,0.038,0.511,0.6092398156038357
+General health,pronoun,-0.089,-0.121,0.489,0.6246166463019569
+General health,relig,0.047,0.016,0.468,0.6399939871551936
+General health,article,0.061,0.03,0.465,0.6416797887116714
+General health,lack,0.103,0.073,0.455,0.6487497115780034
+General health,comm,0.01,-0.02,0.442,0.6587033483948672
+General health,fulfill,0.021,-0.009,0.438,0.6612728658652529
+General health,emo_anger,-0.058,-0.088,0.437,0.6621156903763332
+General health,risk,-0.133,-0.105,-0.423,0.6721059001267431
+General health,acquire,-0.165,-0.137,-0.415,0.678116602425038
+General health,emo_sad,0.006,-0.021,0.405,0.685306801887962
+General health,filler,0.043,0.07,-0.405,0.6858064124507921
+General health,friend,0.059,0.032,0.404,0.6862400581917107
+General health,emo_neg,-0.201,-0.177,-0.381,0.7034870603968271
+General health,feeling,-0.075,-0.098,0.349,0.7270617145365224
+General health,nonflu,0.03,0.006,0.349,0.7270712924725609
+General health,i,-0.061,-0.039,-0.334,0.7380366365486721
+General health,reward,0.013,0.035,-0.33,0.7414896656612007
+General health,male,-0.082,-0.104,0.327,0.7436071384357987
+General health,assent,-0.021,0.001,-0.327,0.7437121448187718
+General health,ppron,-0.113,-0.091,-0.321,0.7478350604902382
+General health,home,-0.064,-0.043,-0.32,0.7487174319622079
+General health,power,0.028,0.007,0.309,0.7575026323502052
+General health,Cognition,0.066,0.045,0.308,0.7581560295474903
+General health,time,0.018,0.038,-0.304,0.7614356357465089
+General health,need,-0.062,-0.043,-0.291,0.7712816198217041
+General health,you,0.018,-0.0,0.274,0.784271442986757
+General health,netspeak,-0.087,-0.102,0.232,0.8162512402813695
+General health,AllPunc,-0.01,0.002,-0.193,0.8470797459098751
+General health,Dic,0.008,-0.003,0.155,0.8767116911224111
+General health,tone_pos,0.103,0.092,0.155,0.8769370778408911
+General health,auditory,0.03,0.038,-0.129,0.8974589000428077
+General health,conflict,-0.153,-0.161,0.11,0.9121412600131952
+General health,WPS,0.024,0.019,0.086,0.9315737477031572
+General health,politic,0.033,0.038,-0.083,0.934206526007451
+General health,cause,-0.032,-0.037,0.082,0.9347924664678512
+General health,cogproc,0.086,0.081,0.078,0.9377476574981848
+General health,det,0.061,0.066,-0.066,0.9470333943208646
+General health,Period,0.031,0.028,0.049,0.9612513189486868
+General health,we,0.085,0.088,-0.044,0.964920930390318
+General health,Affect,-0.051,-0.054,0.044,0.9648786668887288
+General health,Conversation,-0.033,-0.035,0.028,0.9773811619479222
+General health,socbehav,0.036,0.036,0.004,0.9970170533693272
+Role limitations due to emotional problems,allure,0.14,-0.05,2.846,0.0044236417954859
+Role limitations due to emotional problems,certitude,-0.046,0.115,-2.4,0.0163806347281281
+Role limitations due to emotional problems,home,0.036,-0.104,2.087,0.0368641574476258
+Role limitations due to emotional problems,ppron,0.009,-0.13,2.078,0.0377010915364355
+Role limitations due to emotional problems,Social,0.04,-0.094,2.01,0.044382863222705
+Role limitations due to emotional problems,Culture,-0.066,0.064,-1.948,0.0514727707001647
+Role limitations due to emotional problems,illness,-0.263,-0.141,-1.888,0.0590734724017389
+Role limitations due to emotional problems,pronoun,0.007,-0.115,1.827,0.0677329446480001
+Role limitations due to emotional problems,swear,-0.008,-0.13,1.824,0.0681883769755153
+Role limitations due to emotional problems,socrefs,0.035,-0.081,1.718,0.0857896900328996
+Role limitations due to emotional problems,adverb,-0.01,0.103,-1.689,0.0912253366987398
+Role limitations due to emotional problems,BigWords,0.029,0.138,-1.643,0.1003914366886005
+Role limitations due to emotional problems,memory,-0.066,0.044,-1.64,0.101086814816204
+Role limitations due to emotional problems,Dic,0.068,-0.037,1.579,0.1143786801901121
+Role limitations due to emotional problems,health,-0.249,-0.148,-1.568,0.1168741988432275
+Role limitations due to emotional problems,conj,-0.099,-0.0,-1.478,0.1393861988618863
+Role limitations due to emotional problems,visual,0.029,-0.067,1.436,0.1510763447199541
+Role limitations due to emotional problems,politic,-0.023,0.072,-1.417,0.1565966511200947
+Role limitations due to emotional problems,work,0.044,0.138,-1.406,0.1595821484720003
+Role limitations due to emotional problems,adj,0.056,0.147,-1.378,0.168185009916078
+Role limitations due to emotional problems,they,0.009,-0.081,1.338,0.1809227196637062
+Role limitations due to emotional problems,you,0.022,-0.064,1.283,0.1995743607151336
+Role limitations due to emotional problems,verb,0.001,-0.083,1.261,0.2073645552891125
+Role limitations due to emotional problems,emo_sad,-0.028,0.053,-1.218,0.2234122108557925
+Role limitations due to emotional problems,Lifestyle,0.07,0.149,-1.197,0.2314369963032057
+Role limitations due to emotional problems,socbehav,-0.005,-0.084,1.176,0.2394501336587513
+Role limitations due to emotional problems,money,0.019,0.097,-1.167,0.2430625236380346
+Role limitations due to emotional problems,Exclam,-0.03,0.045,-1.104,0.2696088480254299
+Role limitations due to emotional problems,conflict,-0.162,-0.089,-1.102,0.2703155923613358
+Role limitations due to emotional problems,fatigue,0.036,-0.037,1.087,0.2770067778855201
+Role limitations due to emotional problems,moral,-0.081,-0.009,-1.072,0.2838111943633226
+Role limitations due to emotional problems,want,0.057,-0.014,1.059,0.2896294916659929
+Role limitations due to emotional problems,article,0.012,0.078,-0.995,0.3198260930177192
+Role limitations due to emotional problems,tech,-0.064,0.002,-0.982,0.3262321314790815
+Role limitations due to emotional problems,focuspresent,0.023,-0.043,0.979,0.3274789195343164
+Role limitations due to emotional problems,nonflu,-0.014,0.051,-0.96,0.3369067290311496
+Role limitations due to emotional problems,Authentic,0.057,-0.006,0.939,0.3475859978602789
+Role limitations due to emotional problems,OtherP,-0.013,-0.074,0.917,0.3593584856585923
+Role limitations due to emotional problems,ethnicity,-0.011,0.048,-0.883,0.377471218869265
+Role limitations due to emotional problems,WPS,-0.04,0.019,-0.879,0.3792058561729128
+Role limitations due to emotional problems,auditory,0.029,0.088,-0.878,0.3801171211310372
+Role limitations due to emotional problems,Physical,-0.265,-0.211,-0.85,0.3954714673099575
+Role limitations due to emotional problems,male,-0.033,-0.089,0.847,0.3969251057623626
+Role limitations due to emotional problems,comm,-0.009,-0.066,0.846,0.3977623429280656
+Role limitations due to emotional problems,focuspast,-0.054,0.002,-0.834,0.4043190371649825
+Role limitations due to emotional problems,Period,0.047,-0.008,0.829,0.4072586713419808
+Role limitations due to emotional problems,i,0.021,-0.033,0.804,0.4214567501804915
+Role limitations due to emotional problems,prep,-0.001,-0.055,0.798,0.4246966605936206
+Role limitations due to emotional problems,cause,0.029,-0.024,0.792,0.4286250473816619
+Role limitations due to emotional problems,polite,-0.02,-0.072,0.783,0.4333548821569271
+Role limitations due to emotional problems,power,0.055,0.003,0.778,0.4368365303078727
+Role limitations due to emotional problems,substances,-0.072,-0.022,-0.746,0.4553655341182809
+Role limitations due to emotional problems,emo_neg,-0.13,-0.081,-0.741,0.4586726366732807
+Role limitations due to emotional problems,death,-0.035,-0.083,0.722,0.4703291574744583
+Role limitations due to emotional problems,AllPunc,0.034,-0.011,0.677,0.498146707074885
+Role limitations due to emotional problems,function,-0.033,-0.078,0.676,0.4992267139442763
+Role limitations due to emotional problems,family,0.062,0.017,0.668,0.5041038724636095
+Role limitations due to emotional problems,friend,0.037,-0.008,0.659,0.5101484497499651
+Role limitations due to emotional problems,QMark,0.018,-0.026,0.653,0.5135127924025178
+Role limitations due to emotional problems,Clout,0.021,-0.022,0.64,0.522091750868231
+Role limitations due to emotional problems,tone_neg,-0.189,-0.148,-0.64,0.5221266442609176
+Role limitations due to emotional problems,auxverb,0.045,0.003,0.633,0.5266655023920779
+Role limitations due to emotional problems,relig,0.012,0.052,-0.605,0.5454364620731811
+Role limitations due to emotional problems,wellness,-0.084,-0.044,-0.601,0.5477994464902411
+Role limitations due to emotional problems,tentat,0.046,0.085,-0.593,0.553354024806366
+Role limitations due to emotional problems,number,0.043,0.082,-0.575,0.5650017674449048
+Role limitations due to emotional problems,acquire,-0.102,-0.065,-0.566,0.5711407564388522
+Role limitations due to emotional problems,insight,0.061,0.023,0.561,0.5746948879665301
+Role limitations due to emotional problems,Analytic,0.016,0.051,-0.523,0.6006593110217917
+Role limitations due to emotional problems,leisure,0.064,0.098,-0.517,0.605300943793361
+Role limitations due to emotional problems,need,-0.019,-0.052,0.498,0.6185049992168365
+Role limitations due to emotional problems,Perception,-0.059,-0.092,0.492,0.6224728103850858
+Role limitations due to emotional problems,achieve,0.025,0.058,-0.49,0.6239732858829188
+Role limitations due to emotional problems,risk,-0.068,-0.035,-0.482,0.630126718000185
+Role limitations due to emotional problems,Tone,0.167,0.135,0.479,0.6321302229129895
+Role limitations due to emotional problems,time,0.034,0.003,0.466,0.6414093325643315
+Role limitations due to emotional problems,Linguistic,-0.044,-0.074,0.447,0.6552267491813097
+Role limitations due to emotional problems,we,0.091,0.063,0.423,0.6722439471416131
+Role limitations due to emotional problems,emo_anx,-0.042,-0.069,0.417,0.6769681425324776
+Role limitations due to emotional problems,ipron,-0.003,0.024,-0.406,0.6847074475600985
+Role limitations due to emotional problems,negate,-0.042,-0.069,0.403,0.6870453100522833
+Role limitations due to emotional problems,attention,0.011,-0.015,0.385,0.7002942308468638
+Role limitations due to emotional problems,netspeak,-0.094,-0.069,-0.383,0.7015739529326734
+Role limitations due to emotional problems,Apostro,-0.046,-0.021,-0.376,0.7066908380335519
+Role limitations due to emotional problems,cogproc,0.079,0.056,0.349,0.7269974283765397
+Role limitations due to emotional problems,discrep,0.052,0.029,0.347,0.728862581587316
+Role limitations due to emotional problems,emo_pos,0.094,0.071,0.339,0.7345185238603362
+Role limitations due to emotional problems,space,-0.046,-0.067,0.316,0.751744208893117
+Role limitations due to emotional problems,Cognition,0.077,0.057,0.303,0.7620576322342179
+Role limitations due to emotional problems,motion,-0.06,-0.078,0.279,0.7801459199008876
+Role limitations due to emotional problems,emo_anger,-0.067,-0.048,-0.271,0.7866956047118401
+Role limitations due to emotional problems,sexual,-0.039,-0.021,-0.269,0.7878846308484002
+Role limitations due to emotional problems,shehe,-0.1,-0.117,0.255,0.7986197814650593
+Role limitations due to emotional problems,differ,0.015,0.0,0.22,0.8257259435291009
+Role limitations due to emotional problems,fulfill,-0.032,-0.046,0.217,0.8280320079026946
+Role limitations due to emotional problems,Conversation,0.006,0.02,-0.216,0.8286901241823492
+Role limitations due to emotional problems,lack,-0.002,0.011,-0.201,0.8409003026154545
+Role limitations due to emotional problems,quantity,0.025,0.038,-0.198,0.8428855951203975
+Role limitations due to emotional problems,female,-0.051,-0.064,0.187,0.8515137831978417
+Role limitations due to emotional problems,food,-0.058,-0.07,0.178,0.85847005115154
+Role limitations due to emotional problems,prosocial,-0.01,0.002,-0.177,0.8598909884986126
+Role limitations due to emotional problems,Affect,-0.042,-0.031,-0.17,0.8646511350557184
+Role limitations due to emotional problems,feeling,-0.095,-0.106,0.168,0.8662510936454724
+Role limitations due to emotional problems,curiosity,0.043,0.032,0.161,0.8722441045355405
+Role limitations due to emotional problems,mental,-0.123,-0.113,-0.146,0.8838067834738133
+Role limitations due to emotional problems,det,0.057,0.048,0.13,0.8968697542790662
+Role limitations due to emotional problems,Drives,0.114,0.107,0.096,0.9239158525409844
+Role limitations due to emotional problems,assent,0.035,0.041,-0.09,0.9281486308031353
+Role limitations due to emotional problems,filler,0.053,0.059,-0.083,0.9341352102439416
+Role limitations due to emotional problems,Comma,0.033,0.039,-0.078,0.937863533470334
+Role limitations due to emotional problems,allnone,0.007,0.012,-0.066,0.947512554937686
+Role limitations due to emotional problems,tone_pos,0.069,0.073,-0.066,0.9477453849992734
+Role limitations due to emotional problems,emotion,0.001,0.004,-0.05,0.9598215231954752
+Role limitations due to emotional problems,focusfuture,-0.021,-0.024,0.042,0.9664950960568032
+Role limitations due to emotional problems,affiliation,0.091,0.089,0.029,0.9771300056834022
+Role limitations due to emotional problems,reward,-0.042,-0.041,-0.012,0.9907874498962076
+Energy/fatigue,tech,-0.047,0.108,-2.31,0.0209013086767555
+Energy/fatigue,Culture,0.007,0.152,-2.168,0.0301846474126687
+Energy/fatigue,auxverb,0.037,-0.107,2.158,0.030893860004753
+Energy/fatigue,certitude,-0.02,0.123,-2.141,0.032272367357452
+Energy/fatigue,verb,-0.001,-0.138,2.058,0.0395856953296467
+Energy/fatigue,Linguistic,-0.059,-0.189,1.962,0.049751607672299
+Energy/fatigue,money,0.037,0.165,-1.931,0.0535191919747315
+Energy/fatigue,adverb,-0.042,0.083,-1.857,0.0632820573940937
+Energy/fatigue,substances,-0.062,0.06,-1.818,0.0690172133521676
+Energy/fatigue,OtherP,0.043,-0.074,1.758,0.0786989670632671
+Energy/fatigue,discrep,0.072,-0.046,1.746,0.0808939228026872
+Energy/fatigue,health,-0.253,-0.142,-1.723,0.0848425306250371
+Energy/fatigue,netspeak,-0.138,-0.027,-1.667,0.0954432654383714
+Energy/fatigue,Dic,-0.029,-0.139,1.656,0.0977799654974389
+Energy/fatigue,we,0.126,0.017,1.618,0.1057250698553362
+Energy/fatigue,ppron,-0.065,-0.171,1.606,0.1082528931047936
+Energy/fatigue,Social,0.028,-0.079,1.588,0.112257978781955
+Energy/fatigue,want,0.039,-0.065,1.549,0.1213579988364403
+Energy/fatigue,home,0.007,-0.094,1.509,0.1312504345036025
+Energy/fatigue,male,-0.047,-0.146,1.484,0.1378794630335786
+Energy/fatigue,Lifestyle,0.112,0.209,-1.476,0.1400424227467622
+Energy/fatigue,socrefs,0.017,-0.082,1.474,0.1404888930751795
+Energy/fatigue,visual,0.028,-0.069,1.447,0.1479850131881868
+Energy/fatigue,emo_pos,0.052,-0.044,1.428,0.1531756895739096
+Energy/fatigue,tentat,-0.031,0.063,-1.409,0.1589438044349989
+Energy/fatigue,function,-0.096,-0.188,1.403,0.1606950198942334
+Energy/fatigue,socbehav,0.041,-0.049,1.334,0.1820897101415566
+Energy/fatigue,differ,-0.042,-0.129,1.293,0.1958699145478371
+Energy/fatigue,work,0.098,0.183,-1.283,0.1996421512904846
+Energy/fatigue,swear,-0.011,-0.097,1.28,0.2005629921352785
+Energy/fatigue,illness,-0.221,-0.14,-1.253,0.2103564848554615
+Energy/fatigue,moral,-0.069,0.013,-1.232,0.2179265025908083
+Energy/fatigue,Physical,-0.256,-0.179,-1.202,0.2292670907790213
+Energy/fatigue,pronoun,-0.085,-0.164,1.197,0.231224001297035
+Energy/fatigue,Exclam,-0.002,0.074,-1.131,0.2582531743311957
+Energy/fatigue,negate,-0.058,-0.131,1.087,0.276988680106478
+Energy/fatigue,family,0.055,-0.016,1.057,0.2903254984553816
+Energy/fatigue,Comma,0.005,0.074,-1.034,0.3011694134840128
+Energy/fatigue,allure,0.046,-0.02,0.99,0.322293251699546
+Energy/fatigue,WPS,-0.044,0.023,-0.989,0.3225276106712345
+Energy/fatigue,affiliation,0.114,0.05,0.956,0.3390040134066565
+Energy/fatigue,focusfuture,0.039,-0.025,0.956,0.3392177653952202
+Energy/fatigue,focuspresent,-0.015,-0.078,0.95,0.3421412831803447
+Energy/fatigue,friend,0.076,0.012,0.945,0.3444327344532705
+Energy/fatigue,Tone,0.222,0.161,0.941,0.3467204767834295
+Energy/fatigue,polite,-0.026,-0.089,0.94,0.3471773229489023
+Energy/fatigue,BigWords,0.135,0.195,-0.918,0.3588572582658806
+Energy/fatigue,reward,-0.006,0.055,-0.912,0.3618820202251867
+Energy/fatigue,food,-0.007,-0.068,0.906,0.3650208760576858
+Energy/fatigue,Drives,0.144,0.085,0.9,0.3679980248693666
+Energy/fatigue,emo_anx,-0.114,-0.054,-0.891,0.3729359671222201
+Energy/fatigue,emotion,-0.068,-0.127,0.887,0.375328022718159
+Energy/fatigue,fatigue,-0.03,-0.088,0.877,0.3806338259672146
+Energy/fatigue,comm,0.004,-0.052,0.844,0.3987992225435235
+Energy/fatigue,risk,-0.089,-0.033,-0.835,0.4034961613341861
+Energy/fatigue,ipron,-0.047,0.008,-0.823,0.410524871316378
+Energy/fatigue,allnone,-0.007,-0.062,0.821,0.4117481674432715
+Energy/fatigue,conj,-0.112,-0.058,-0.811,0.4173323744506934
+Energy/fatigue,ethnicity,0.004,0.059,-0.811,0.4171146978811397
+Energy/fatigue,Analytic,0.076,0.13,-0.805,0.421072283620151
+Energy/fatigue,Conversation,-0.053,0.001,-0.799,0.4240761082682929
+Energy/fatigue,motion,0.004,-0.049,0.797,0.4252558005346913
+Energy/fatigue,Period,0.054,0.001,0.783,0.4334623629326506
+Energy/fatigue,emo_neg,-0.202,-0.151,-0.781,0.4348205908700717
+Energy/fatigue,shehe,-0.117,-0.167,0.763,0.4452586391487947
+Energy/fatigue,number,0.022,0.071,-0.724,0.4692966358821562
+Energy/fatigue,death,-0.073,-0.025,-0.708,0.4791710643068523
+Energy/fatigue,relig,-0.046,-0.003,-0.637,0.5243801888369637
+Energy/fatigue,filler,0.063,0.021,0.626,0.5311694826847067
+Energy/fatigue,insight,-0.014,0.027,-0.609,0.5422795161176461
+Energy/fatigue,tone_pos,0.112,0.072,0.599,0.5493709173519907
+Energy/fatigue,politic,0.075,0.114,-0.583,0.5596116255809085
+Energy/fatigue,Perception,-0.022,-0.059,0.551,0.5818353601802433
+Energy/fatigue,assent,-0.023,0.013,-0.542,0.5879621500643373
+Energy/fatigue,tone_neg,-0.227,-0.193,-0.533,0.5941102048401068
+Energy/fatigue,lack,0.074,0.039,0.527,0.5982193480262925
+Energy/fatigue,attention,0.014,-0.02,0.502,0.6159598559758483
+Energy/fatigue,power,0.095,0.063,0.481,0.630588227353513
+Energy/fatigue,i,-0.059,-0.091,0.478,0.633002857523169
+Energy/fatigue,achieve,0.018,0.05,-0.475,0.6345893638743831
+Energy/fatigue,female,-0.081,-0.113,0.474,0.6354012205317185
+Energy/fatigue,nonflu,0.014,-0.017,0.465,0.6416157155842916
+Energy/fatigue,wellness,-0.064,-0.033,-0.459,0.6458966580041963
+Energy/fatigue,Affect,-0.029,-0.056,0.408,0.6835160335119999
+Energy/fatigue,Clout,0.067,0.041,0.377,0.7061690819391582
+Energy/fatigue,Authentic,-0.028,-0.003,-0.364,0.7156479633822483
+Energy/fatigue,memory,-0.042,-0.019,-0.351,0.7256657014717143
+Energy/fatigue,they,-0.007,-0.031,0.35,0.7266391151836724
+Energy/fatigue,prep,0.003,-0.02,0.347,0.7289432700589515
+Energy/fatigue,sexual,-0.105,-0.082,-0.345,0.7301284598622777
+Energy/fatigue,AllPunc,0.022,-0.001,0.341,0.7330861934901889
+Energy/fatigue,you,-0.016,0.005,-0.318,0.7504862051053678
+Energy/fatigue,fulfill,-0.024,-0.002,-0.318,0.750137808986352
+Energy/fatigue,leisure,0.119,0.139,-0.303,0.7617958717953326
+Energy/fatigue,quantity,0.066,0.086,-0.299,0.7651170509438152
+Energy/fatigue,conflict,-0.139,-0.12,-0.287,0.773771824883636
+Energy/fatigue,mental,-0.125,-0.108,-0.26,0.7949079745264187
+Energy/fatigue,adj,0.058,0.041,0.254,0.7996339429806978
+Energy/fatigue,auditory,0.057,0.043,0.208,0.8350509834262261
+Energy/fatigue,need,-0.045,-0.059,0.207,0.8361685791886928
+Energy/fatigue,curiosity,0.085,0.071,0.202,0.8398650049342444
+Energy/fatigue,time,0.025,0.037,-0.171,0.8639880546277499
+Energy/fatigue,QMark,0.031,0.021,0.161,0.8720762555845518
+Energy/fatigue,Cognition,-0.008,-0.019,0.159,0.874047298151374
+Energy/fatigue,cause,-0.015,-0.006,-0.136,0.8921047051610316
+Energy/fatigue,focuspast,-0.058,-0.066,0.124,0.9015716003914378
+Energy/fatigue,prosocial,0.056,0.064,-0.121,0.9035805344543276
+Energy/fatigue,emo_sad,-0.001,-0.009,0.12,0.9044261344348548
+Energy/fatigue,acquire,-0.074,-0.082,0.117,0.907009671983799
+Energy/fatigue,cogproc,-0.008,-0.002,-0.091,0.927230601152133
+Energy/fatigue,feeling,-0.08,-0.086,0.091,0.927265904647646
+Energy/fatigue,article,0.084,0.089,-0.073,0.9415485235530948
+Energy/fatigue,space,-0.032,-0.036,0.051,0.958990528356338
+Energy/fatigue,det,0.063,0.067,-0.05,0.9604281322016444
+Energy/fatigue,Apostro,-0.098,-0.095,-0.038,0.9696468208387544
+Energy/fatigue,emo_anger,-0.116,-0.114,-0.019,0.984450771058581
+Emotional well-being,male,-0.02,-0.181,2.424,0.0153488364181646
+Emotional well-being,substances,-0.105,0.046,-2.253,0.0242605080477951
+Emotional well-being,shehe,-0.073,-0.213,2.121,0.0339559454847753
+Emotional well-being,home,0.044,-0.093,2.046,0.0407270481801531
+Emotional well-being,money,0.005,0.138,-2.005,0.0449876607886334
+Emotional well-being,OtherP,0.048,-0.085,1.994,0.0461005082640391
+Emotional well-being,Lifestyle,0.117,0.236,-1.839,0.0658729821384185
+Emotional well-being,certitude,0.017,0.131,-1.719,0.0856022234606994
+Emotional well-being,leisure,0.039,0.152,-1.689,0.0912148612743017
+Emotional well-being,Authentic,-0.062,0.049,-1.664,0.0960330563437523
+Emotional well-being,comm,0.004,-0.106,1.636,0.1019141857595771
+Emotional well-being,friend,0.049,-0.06,1.62,0.1051692958404266
+Emotional well-being,swear,-0.039,-0.147,1.611,0.1071572976679828
+Emotional well-being,health,-0.208,-0.103,-1.6,0.1095879245755457
+Emotional well-being,socbehav,0.019,-0.086,1.56,0.1187623959968768
+Emotional well-being,work,0.092,0.194,-1.55,0.121067210722638
+Emotional well-being,emo_neg,-0.248,-0.15,-1.531,0.1256914552202388
+Emotional well-being,Social,0.014,-0.087,1.504,0.1327073047091171
+Emotional well-being,function,-0.037,-0.136,1.494,0.1351337471461926
+Emotional well-being,BigWords,0.096,0.194,-1.49,0.1363072690132523
+Emotional well-being,Culture,0.024,0.123,-1.482,0.1382162882419035
+Emotional well-being,pronoun,-0.079,-0.172,1.408,0.1592535312534795
+Emotional well-being,fatigue,0.015,-0.079,1.398,0.1621996294927443
+Emotional well-being,socrefs,0.008,-0.082,1.336,0.1813859281706726
+Emotional well-being,quantity,0.036,0.124,-1.322,0.1861446003878284
+Emotional well-being,emo_sad,-0.071,0.017,-1.303,0.1927190570571186
+Emotional well-being,Comma,-0.02,0.067,-1.295,0.19541119731571
+Emotional well-being,cause,-0.09,-0.003,-1.291,0.1965613854077206
+Emotional well-being,emo_pos,0.044,-0.042,1.281,0.2001972493446155
+Emotional well-being,visual,0.001,-0.083,1.261,0.2073890505932134
+Emotional well-being,ppron,-0.092,-0.173,1.222,0.2217449526789718
+Emotional well-being,Linguistic,-0.059,-0.138,1.184,0.2362346397625296
+Emotional well-being,Physical,-0.23,-0.154,-1.17,0.2418087203298986
+Emotional well-being,netspeak,-0.098,-0.02,-1.162,0.2451504841206033
+Emotional well-being,tone_neg,-0.258,-0.184,-1.157,0.2473206266272476
+Emotional well-being,curiosity,0.055,-0.02,1.117,0.26396603344475
+Emotional well-being,Period,0.033,-0.041,1.109,0.2673540605484574
+Emotional well-being,illness,-0.202,-0.13,-1.101,0.2710553132454045
+Emotional well-being,achieve,0.004,0.076,-1.079,0.2807613238469582
+Emotional well-being,conj,-0.08,-0.009,-1.061,0.2885926120188573
+Emotional well-being,tech,-0.017,0.052,-1.03,0.3029412767792514
+Emotional well-being,politic,0.051,0.118,-1.012,0.3113824209574067
+Emotional well-being,Tone,0.207,0.142,0.999,0.3178373656012301
+Emotional well-being,sexual,-0.095,-0.031,-0.951,0.3414067591000236
+Emotional well-being,WPS,-0.016,0.047,-0.932,0.3513901248792928
+Emotional well-being,discrep,0.047,-0.015,0.925,0.3549617507757743
+Emotional well-being,risk,-0.101,-0.042,-0.89,0.3733485090686521
+Emotional well-being,Dic,0.001,-0.057,0.871,0.3840066174209968
+Emotional well-being,prosocial,0.004,0.062,-0.862,0.3885905690482247
+Emotional well-being,you,-0.051,0.005,-0.841,0.4004150379590814
+Emotional well-being,motion,-0.011,-0.066,0.827,0.4084681783807338
+Emotional well-being,allnone,0.033,-0.022,0.826,0.4089246264953317
+Emotional well-being,emo_anx,-0.136,-0.081,-0.824,0.4102010280111052
+Emotional well-being,insight,-0.036,0.018,-0.804,0.4212881876744787
+Emotional well-being,conflict,-0.096,-0.148,0.783,0.4337020446956332
+Emotional well-being,Perception,-0.005,-0.057,0.764,0.4449408593447486
+Emotional well-being,Apostro,-0.132,-0.081,-0.762,0.4458444359096771
+Emotional well-being,auxverb,-0.036,-0.087,0.761,0.4466598663604784
+Emotional well-being,female,-0.083,-0.131,0.724,0.4689425946160432
+Emotional well-being,adverb,0.016,0.064,-0.72,0.4716691300849496
+Emotional well-being,relig,0.07,0.117,-0.708,0.4792113486892495
+Emotional well-being,prep,0.054,0.006,0.707,0.4798099265727278
+Emotional well-being,number,0.053,0.099,-0.698,0.4851507183341486
+Emotional well-being,emo_anger,-0.135,-0.093,-0.634,0.5263204511603543
+Emotional well-being,verb,-0.092,-0.134,0.632,0.5276643719072835
+Emotional well-being,Clout,0.072,0.033,0.569,0.5691233083374083
+Emotional well-being,we,0.111,0.074,0.555,0.5790671914886107
+Emotional well-being,Exclam,0.025,0.061,-0.544,0.5863198747995904
+Emotional well-being,attention,0.024,-0.012,0.529,0.5970956079765499
+Emotional well-being,cogproc,-0.021,0.014,-0.519,0.603432994389951
+Emotional well-being,power,0.088,0.054,0.51,0.6102281110698193
+Emotional well-being,Analytic,0.087,0.119,-0.486,0.6272162029796675
+Emotional well-being,want,-0.007,-0.038,0.466,0.6414378964428773
+Emotional well-being,lack,0.012,0.043,-0.463,0.6434962389390666
+Emotional well-being,QMark,0.034,0.005,0.445,0.6560608704202511
+Emotional well-being,space,0.008,-0.021,0.426,0.6700391121136535
+Emotional well-being,focusfuture,-0.029,-0.056,0.411,0.6807841554684031
+Emotional well-being,assent,0.038,0.013,0.383,0.7016636578954307
+Emotional well-being,memory,-0.041,-0.017,-0.364,0.7155431329948316
+Emotional well-being,auditory,0.0,0.024,-0.352,0.7250761739571134
+Emotional well-being,AllPunc,-0.011,-0.033,0.33,0.7416394598428182
+Emotional well-being,ipron,0.019,-0.003,0.328,0.7426633700905592
+Emotional well-being,need,-0.025,-0.046,0.317,0.7515286716337852
+Emotional well-being,fulfill,0.016,-0.004,0.301,0.7631537385735929
+Emotional well-being,ethnicity,0.032,0.051,-0.287,0.7744892989237235
+Emotional well-being,Cognition,-0.012,0.007,-0.271,0.7866445982806183
+Emotional well-being,death,-0.062,-0.08,0.27,0.787220950953641
+Emotional well-being,moral,-0.056,-0.073,0.258,0.796259953713286
+Emotional well-being,tone_pos,0.073,0.055,0.257,0.7969915323631978
+Emotional well-being,reward,-0.0,0.016,-0.244,0.8072331332030036
+Emotional well-being,nonflu,0.025,0.009,0.24,0.8106944168355146
+Emotional well-being,focuspast,-0.018,-0.034,0.238,0.8118234412721215
+Emotional well-being,family,0.008,-0.007,0.223,0.8236394425389437
+Emotional well-being,filler,0.016,0.03,-0.201,0.8408115462787871
+Emotional well-being,Affect,-0.083,-0.071,-0.174,0.8619970121089147
+Emotional well-being,Drives,0.103,0.114,-0.173,0.8630044124926763
+Emotional well-being,focuspresent,-0.081,-0.07,-0.168,0.866410011896025
+Emotional well-being,food,-0.051,-0.04,-0.166,0.868276973723503
+Emotional well-being,differ,-0.057,-0.068,0.152,0.8792303292086161
+Emotional well-being,time,0.03,0.02,0.148,0.8820002562167968
+Emotional well-being,wellness,-0.065,-0.055,-0.145,0.8843674344776817
+Emotional well-being,i,-0.101,-0.092,-0.141,0.8878497984177545
+Emotional well-being,det,0.084,0.074,0.14,0.888738988415531
+Emotional well-being,acquire,-0.073,-0.065,-0.123,0.9020822425837136
+Emotional well-being,polite,-0.069,-0.076,0.107,0.9148886419500696
+Emotional well-being,they,0.01,0.003,0.1,0.9205066578747728
+Emotional well-being,Conversation,0.015,0.008,0.097,0.9225976732746322
+Emotional well-being,affiliation,0.077,0.071,0.09,0.9284582622645056
+Emotional well-being,negate,-0.101,-0.106,0.078,0.9377851898958148
+Emotional well-being,adj,0.031,0.036,-0.077,0.9387669621902456
+Emotional well-being,tentat,0.041,0.036,0.076,0.9390969374616178
+Emotional well-being,emotion,-0.119,-0.124,0.067,0.946739447016754
+Emotional well-being,feeling,-0.135,-0.139,0.06,0.9522618217703988
+Emotional well-being,mental,-0.087,-0.091,0.053,0.9579794462797993
+Emotional well-being,allure,-0.026,-0.029,0.046,0.9635965601095632
+Emotional well-being,article,0.093,0.092,0.01,0.991755519016799
+Social Functioning,Physical,-0.362,-0.201,-2.625,0.0086688859142745
+Social Functioning,health,-0.323,-0.159,-2.612,0.0090088297358899
+Social Functioning,certitude,0.027,0.167,-2.096,0.0361041003257929
+Social Functioning,BigWords,0.046,0.174,-1.938,0.052666865764934
+Social Functioning,allure,0.092,-0.033,1.877,0.0605052646633048
+Social Functioning,illness,-0.325,-0.213,-1.805,0.0711143516953651
+Social Functioning,auditory,-0.025,0.092,-1.748,0.0805200121884968
+Social Functioning,pronoun,-0.064,-0.176,1.698,0.0894503874987355
+Social Functioning,ppron,-0.081,-0.191,1.68,0.0930477196295829
+Social Functioning,Linguistic,-0.006,-0.113,1.599,0.1098179867679618
+Social Functioning,focusfuture,0.047,-0.06,1.594,0.1109219562665306
+Social Functioning,focuspresent,0.0,-0.103,1.551,0.1209539817871308
+Social Functioning,tone_neg,-0.281,-0.184,-1.533,0.1252771333870219
+Social Functioning,male,-0.088,-0.187,1.508,0.1315254550050517
+Social Functioning,you,0.045,-0.054,1.476,0.1400071829865883
+Social Functioning,Dic,0.023,-0.075,1.462,0.1436252282987489
+Social Functioning,allnone,0.03,-0.066,1.436,0.1509682668865233
+Social Functioning,want,0.034,-0.061,1.423,0.1547852919882173
+Social Functioning,number,-0.006,0.089,-1.411,0.1583285946899062
+Social Functioning,conj,-0.09,0.002,-1.379,0.1677634361367617
+Social Functioning,Social,-0.026,-0.117,1.351,0.1765572415712335
+Social Functioning,function,-0.034,-0.123,1.334,0.1821631784471156
+Social Functioning,verb,-0.023,-0.112,1.329,0.1838919287212816
+Social Functioning,auxverb,0.019,-0.066,1.272,0.2032687253049987
+Social Functioning,polite,-0.021,-0.106,1.267,0.2049837925101916
+Social Functioning,substances,-0.056,0.029,-1.26,0.2074943616075613
+Social Functioning,feeling,-0.127,-0.044,-1.246,0.2125971236166914
+Social Functioning,socrefs,-0.023,-0.105,1.227,0.2198191600068506
+Social Functioning,differ,0.04,-0.041,1.222,0.2216705167591457
+Social Functioning,need,-0.061,0.019,-1.202,0.2293879202147533
+Social Functioning,comm,-0.021,-0.101,1.192,0.2332758037841955
+Social Functioning,sexual,-0.081,-0.001,-1.189,0.2342647296433453
+Social Functioning,money,0.072,0.149,-1.164,0.2442453070351844
+Social Functioning,adverb,0.015,0.091,-1.136,0.2561128521968401
+Social Functioning,power,0.082,0.007,1.12,0.2625480219105021
+Social Functioning,memory,-0.09,-0.015,-1.12,0.2627272591346239
+Social Functioning,emo_neg,-0.21,-0.137,-1.114,0.2650969675931751
+Social Functioning,female,-0.133,-0.061,-1.096,0.2730093960708872
+Social Functioning,they,0.0,-0.072,1.076,0.2818462356346312
+Social Functioning,Lifestyle,0.145,0.215,-1.074,0.2828804017426511
+Social Functioning,OtherP,-0.015,-0.086,1.069,0.2852607532959179
+Social Functioning,swear,-0.013,-0.084,1.064,0.2873733692920501
+Social Functioning,QMark,0.056,-0.015,1.061,0.288532705184551
+Social Functioning,emo_pos,0.047,-0.024,1.056,0.2911080213957162
+Social Functioning,Culture,0.013,0.083,-1.053,0.2924049857535324
+Social Functioning,prosocial,-0.049,0.02,-1.028,0.3039696507663296
+Social Functioning,Cognition,0.103,0.035,1.007,0.3139160011965032
+Social Functioning,socbehav,-0.041,-0.108,1.004,0.3152403713935534
+Social Functioning,Affect,-0.108,-0.042,-0.988,0.3231159828769137
+Social Functioning,tech,-0.026,0.039,-0.966,0.3339703657343107
+Social Functioning,friend,0.069,0.005,0.958,0.3381472309861544
+Social Functioning,focuspast,-0.061,0.003,-0.946,0.3443265724072801
+Social Functioning,emo_anx,-0.088,-0.027,-0.907,0.3641857866059759
+Social Functioning,negate,-0.037,-0.097,0.898,0.3693184171816561
+Social Functioning,visual,0.041,-0.018,0.886,0.375484258680121
+Social Functioning,conflict,-0.173,-0.117,-0.848,0.3963089203995567
+Social Functioning,work,0.12,0.174,-0.831,0.4062184086271716
+Social Functioning,discrep,0.05,-0.003,0.791,0.4289010919846061
+Social Functioning,Authentic,0.044,-0.008,0.775,0.4385150878575228
+Social Functioning,moral,-0.068,-0.017,-0.772,0.4401375938729897
+Social Functioning,attention,0.044,-0.007,0.747,0.4551428996489182
+Social Functioning,Analytic,0.053,0.102,-0.731,0.4645038153268404
+Social Functioning,motion,-0.001,-0.049,0.717,0.4734854425782129
+Social Functioning,home,-0.007,-0.053,0.677,0.4982211562053349
+Social Functioning,cogproc,0.1,0.055,0.669,0.503645504766475
+Social Functioning,fatigue,-0.018,-0.062,0.645,0.5189438665788493
+Social Functioning,space,0.011,-0.031,0.633,0.5264481105210357
+Social Functioning,Apostro,-0.089,-0.13,0.617,0.5370934568067456
+Social Functioning,Perception,0.003,-0.037,0.599,0.5490856460118536
+Social Functioning,leisure,0.121,0.159,-0.583,0.5598321313002097
+Social Functioning,cause,-0.009,0.029,-0.567,0.5703989358608783
+Social Functioning,tone_pos,0.044,0.081,-0.551,0.5817962126170737
+Social Functioning,food,-0.018,-0.054,0.54,0.5891109714690881
+Social Functioning,relig,-0.033,0.002,-0.519,0.6034969857344579
+Social Functioning,Clout,0.045,0.011,0.498,0.6181879977457041
+Social Functioning,Exclam,0.031,0.063,-0.478,0.6326822826188094
+Social Functioning,ethnicity,0.008,0.04,-0.474,0.6354263409663101
+Social Functioning,insight,0.041,0.011,0.458,0.6471392075318736
+Social Functioning,reward,-0.012,-0.042,0.458,0.6473070972232797
+Social Functioning,filler,0.04,0.07,-0.456,0.6484595532917004
+Social Functioning,Tone,0.194,0.165,0.435,0.6638659857116513
+Social Functioning,acquire,-0.103,-0.074,-0.432,0.6655113633392928
+Social Functioning,Conversation,0.016,-0.011,0.41,0.6820272200676352
+Social Functioning,emo_anger,-0.103,-0.079,-0.362,0.7175739805703436
+Social Functioning,time,0.04,0.016,0.362,0.7170320466814861
+Social Functioning,curiosity,0.027,0.051,-0.358,0.7203251599725262
+Social Functioning,affiliation,0.055,0.078,-0.344,0.7308518656842913
+Social Functioning,i,-0.08,-0.102,0.341,0.733118665111355
+Social Functioning,Comma,0.035,0.058,-0.34,0.733883610681985
+Social Functioning,politic,0.054,0.075,-0.313,0.7544181185066756
+Social Functioning,AllPunc,0.01,-0.01,0.302,0.7624134867904251
+Social Functioning,lack,-0.0,0.02,-0.301,0.7633158183952109
+Social Functioning,emotion,-0.084,-0.102,0.267,0.7892511936655113
+Social Functioning,netspeak,-0.073,-0.091,0.263,0.7923074297577073
+Social Functioning,WPS,-0.001,0.016,-0.253,0.8005578678993084
+Social Functioning,mental,-0.106,-0.091,-0.225,0.8217363208428554
+Social Functioning,nonflu,0.016,0.002,0.202,0.8399377876520009
+Social Functioning,wellness,-0.095,-0.081,-0.2,0.8412213951894603
+Social Functioning,risk,-0.069,-0.056,-0.199,0.8421091434298695
+Social Functioning,we,0.103,0.09,0.194,0.8463370398127366
+Social Functioning,article,0.066,0.076,-0.155,0.8770936204349622
+Social Functioning,tentat,0.112,0.103,0.143,0.8858958204448226
+Social Functioning,family,-0.016,-0.025,0.139,0.8898190681618761
+Social Functioning,prep,0.021,0.012,0.135,0.8923859788012032
+Social Functioning,achieve,0.037,0.046,-0.126,0.8997950423053185
+Social Functioning,fulfill,-0.038,-0.031,-0.098,0.9221228129731232
+Social Functioning,assent,0.035,0.028,0.098,0.922215385678042
+Social Functioning,adj,0.098,0.092,0.086,0.9312800490280696
+Social Functioning,death,-0.094,-0.089,-0.079,0.9367095219424104
+Social Functioning,emo_sad,-0.023,-0.019,-0.073,0.9416385685743728
+Social Functioning,shehe,-0.152,-0.147,-0.069,0.9448731301071388
+Social Functioning,ipron,0.028,0.024,0.069,0.9451999063358428
+Social Functioning,det,0.038,0.034,0.06,0.9522547349297108
+Social Functioning,quantity,0.076,0.074,0.039,0.9691798410247264
+Social Functioning,Period,0.02,0.022,-0.027,0.9782977017621428
+Social Functioning,Drives,0.091,0.091,-0.012,0.9901431699207864
+Physical Health Composite,auxverb,0.08,-0.102,2.71,0.0067331945706903
+Physical Health Composite,focusfuture,0.073,-0.09,2.429,0.0151352639800883
+Physical Health Composite,focuspast,-0.142,0.019,-2.418,0.0156230369533341
+Physical Health Composite,verb,-0.006,-0.153,2.201,0.0277560398448903
+Physical Health Composite,swear,-0.038,-0.182,2.17,0.0300285481127224
+Physical Health Composite,focuspresent,0.023,-0.12,2.144,0.0320255982312436
+Physical Health Composite,allure,0.055,-0.082,2.035,0.0418969216636311
+Physical Health Composite,Linguistic,-0.015,-0.147,1.982,0.0474277827660269
+Physical Health Composite,certitude,0.072,0.197,-1.895,0.0581226877078795
+Physical Health Composite,discrep,0.091,-0.034,1.865,0.0621936223662116
+Physical Health Composite,Lifestyle,0.141,0.251,-1.7,0.0891848038878708
+Physical Health Composite,mental,-0.009,-0.12,1.665,0.0959352922002632
+Physical Health Composite,number,-0.048,0.063,-1.663,0.0962668398118435
+Physical Health Composite,function,-0.041,-0.152,1.655,0.0978680082355707
+Physical Health Composite,emo_sad,0.067,-0.035,1.526,0.1269289321679878
+Physical Health Composite,BigWords,0.137,0.236,-1.52,0.1285710203598682
+Physical Health Composite,they,-0.075,-0.175,1.518,0.1290043175178274
+Physical Health Composite,tech,-0.065,0.037,-1.518,0.1290737669883752
+Physical Health Composite,wellness,0.031,-0.069,1.482,0.1383073598670865
+Physical Health Composite,adverb,0.023,0.12,-1.449,0.1472113191058772
+Physical Health Composite,work,0.133,0.226,-1.44,0.1499371337454071
+Physical Health Composite,pronoun,-0.094,-0.188,1.419,0.1559243739248761
+Physical Health Composite,Culture,-0.007,0.087,-1.401,0.1612021779213499
+Physical Health Composite,polite,-0.0,-0.092,1.373,0.1697548281082861
+Physical Health Composite,differ,0.042,-0.049,1.354,0.1757483806675182
+Physical Health Composite,QMark,0.046,-0.043,1.318,0.1874699377735313
+Physical Health Composite,money,0.031,0.116,-1.268,0.2047725658323396
+Physical Health Composite,want,0.045,-0.04,1.266,0.205347152100471
+Physical Health Composite,shehe,-0.202,-0.12,-1.249,0.2118088208969126
+Physical Health Composite,emo_pos,0.074,-0.008,1.219,0.223011728281866
+Physical Health Composite,Dic,-0.005,-0.085,1.201,0.2297921831378264
+Physical Health Composite,Apostro,-0.074,-0.153,1.198,0.2308426306412796
+Physical Health Composite,ppron,-0.114,-0.192,1.178,0.2387637930448125
+Physical Health Composite,emotion,-0.023,-0.1,1.148,0.2507934335701072
+Physical Health Composite,you,0.043,-0.034,1.143,0.2529744983486854
+Physical Health Composite,food,-0.05,-0.124,1.12,0.2627150296737077
+Physical Health Composite,negate,-0.042,-0.116,1.117,0.2641722911180844
+Physical Health Composite,motion,-0.051,-0.125,1.115,0.2647759940350458
+Physical Health Composite,attention,0.068,-0.006,1.107,0.2681393300419192
+Physical Health Composite,socbehav,0.013,-0.061,1.106,0.268596363677279
+Physical Health Composite,illness,-0.315,-0.248,-1.087,0.276962463873927
+Physical Health Composite,female,-0.131,-0.059,-1.084,0.2785633792040842
+Physical Health Composite,conj,-0.09,-0.019,-1.059,0.2895601934228051
+Physical Health Composite,filler,0.047,0.117,-1.056,0.2909585758837467
+Physical Health Composite,prosocial,0.011,0.08,-1.025,0.305360792877976
+Physical Health Composite,friend,0.077,0.01,0.998,0.3181362229190232
+Physical Health Composite,relig,0.028,-0.037,0.97,0.3321449159282634
+Physical Health Composite,emo_anger,-0.057,-0.121,0.955,0.3393422703693591
+Physical Health Composite,achieve,0.022,0.084,-0.93,0.3525680379550002
+Physical Health Composite,time,-0.019,0.038,-0.841,0.4005441793425819
+Physical Health Composite,Exclam,0.019,0.074,-0.813,0.4164075542341243
+Physical Health Composite,Authentic,0.027,-0.027,0.807,0.4198581799261593
+Physical Health Composite,death,-0.072,-0.017,-0.807,0.4196632915349123
+Physical Health Composite,memory,-0.075,-0.021,-0.802,0.4224532324380963
+Physical Health Composite,moral,-0.074,-0.02,-0.801,0.4228833696237266
+Physical Health Composite,visual,0.009,-0.044,0.796,0.4262279274124063
+Physical Health Composite,comm,-0.021,-0.074,0.787,0.43112155997827
+Physical Health Composite,leisure,0.109,0.161,-0.786,0.4320465035750738
+Physical Health Composite,Drives,0.082,0.134,-0.777,0.4373368067136378
+Physical Health Composite,Social,-0.038,-0.087,0.725,0.4684314092978858
+Physical Health Composite,Physical,-0.33,-0.286,-0.713,0.4755922723547976
+Physical Health Composite,fatigue,-0.006,-0.053,0.701,0.4831769728282902
+Physical Health Composite,need,-0.082,-0.039,-0.651,0.5149102713785068
+Physical Health Composite,substances,-0.055,-0.012,-0.628,0.5297685447387233
+Physical Health Composite,Analytic,0.07,0.111,-0.616,0.538108379841119
+Physical Health Composite,conflict,-0.174,-0.134,-0.615,0.5384245087442361
+Physical Health Composite,prep,0.029,-0.011,0.604,0.546033061651455
+Physical Health Composite,OtherP,-0.015,-0.055,0.595,0.5519218628563454
+Physical Health Composite,i,-0.065,-0.104,0.582,0.5602721525776042
+Physical Health Composite,Cognition,0.097,0.059,0.574,0.5657131024562558
+Physical Health Composite,auditory,0.032,0.069,-0.553,0.5805218295506902
+Physical Health Composite,cogproc,0.12,0.084,0.535,0.5924317729834641
+Physical Health Composite,tentat,0.082,0.116,-0.513,0.6079020402635484
+Physical Health Composite,Perception,-0.054,-0.087,0.498,0.6183998900249166
+Physical Health Composite,feeling,-0.069,-0.102,0.485,0.628000982220065
+Physical Health Composite,affiliation,0.071,0.102,-0.472,0.6369597645260996
+Physical Health Composite,socrefs,-0.052,-0.083,0.461,0.6446691943111673
+Physical Health Composite,Tone,0.241,0.212,0.453,0.6508056598940963
+Physical Health Composite,ethnicity,0.027,0.057,-0.444,0.6572256651534227
+Physical Health Composite,ipron,0.031,0.002,0.435,0.6634650244897804
+Physical Health Composite,Comma,0.039,0.066,-0.401,0.6885660571880183
+Physical Health Composite,acquire,-0.172,-0.146,-0.392,0.6948316483930048
+Physical Health Composite,tone_neg,-0.244,-0.219,-0.391,0.6955908768293311
+Physical Health Composite,health,-0.274,-0.25,-0.386,0.6994853081940446
+Physical Health Composite,cause,-0.033,-0.007,-0.384,0.7009296494991373
+Physical Health Composite,reward,0.044,0.018,0.38,0.7042368249183324
+Physical Health Composite,nonflu,-0.008,0.017,-0.376,0.7066979554114066
+Physical Health Composite,sexual,-0.054,-0.03,-0.355,0.7228890296348354
+Physical Health Composite,AllPunc,0.012,-0.012,0.349,0.7272186672070424
+Physical Health Composite,risk,-0.085,-0.062,-0.341,0.7334698905398183
+Physical Health Composite,allnone,-0.068,-0.087,0.282,0.7775752522620796
+Physical Health Composite,lack,0.042,0.061,-0.273,0.7852243327991073
+Physical Health Composite,insight,0.079,0.063,0.251,0.8020334842878425
+Physical Health Composite,article,0.06,0.077,-0.249,0.8035875818304574
+Physical Health Composite,Conversation,-0.037,-0.021,-0.249,0.8037049605414208
+Physical Health Composite,home,-0.063,-0.046,-0.246,0.8058814775358121
+Physical Health Composite,det,0.07,0.053,0.243,0.8077995758693062
+Physical Health Composite,emo_neg,-0.156,-0.171,0.241,0.809247091141803
+Physical Health Composite,netspeak,-0.107,-0.091,-0.239,0.8114639782691802
+Physical Health Composite,assent,-0.01,0.005,-0.221,0.8250745684503047
+Physical Health Composite,politic,0.061,0.074,-0.186,0.8527630657989429
+Physical Health Composite,emo_anx,-0.059,-0.047,-0.183,0.8551513417514236
+Physical Health Composite,Clout,0.023,0.035,-0.181,0.856241125380224
+Physical Health Composite,we,0.09,0.078,0.174,0.8615794891061286
+Physical Health Composite,curiosity,0.102,0.091,0.173,0.8624930631642067
+Physical Health Composite,tone_pos,0.121,0.111,0.15,0.8805987684379131
+Physical Health Composite,adj,0.138,0.128,0.148,0.8820911667357918
+Physical Health Composite,fulfill,-0.013,-0.004,-0.135,0.8925108684932355
+Physical Health Composite,Affect,-0.026,-0.035,0.129,0.8972483519032179
+Physical Health Composite,male,-0.13,-0.138,0.127,0.8993237554089788
+Physical Health Composite,WPS,0.019,0.027,-0.112,0.9104987184997312
+Physical Health Composite,quantity,0.069,0.062,0.105,0.9165885850453116
+Physical Health Composite,space,-0.05,-0.055,0.077,0.9382541189117202
+Physical Health Composite,family,0.004,-0.001,0.071,0.9437049907623748
+Physical Health Composite,power,0.027,0.026,0.017,0.9862382532546404
+Physical Health Composite,Period,0.015,0.014,0.004,0.9970409373564972
+Mental Health Composite,certitude,-0.013,0.159,-2.583,0.0097980443623126
+Mental Health Composite,health,-0.315,-0.171,-2.274,0.022942162159661
+Mental Health Composite,allure,0.092,-0.047,2.081,0.0374166184685424
+Mental Health Composite,ppron,-0.058,-0.193,2.04,0.0413082372137942
+Mental Health Composite,Culture,-0.016,0.117,-1.995,0.0460629150053171
+Mental Health Composite,Social,0.019,-0.11,1.93,0.0535688172758026
+Mental Health Composite,illness,-0.31,-0.189,-1.925,0.0542096319426526
+Mental Health Composite,home,0.024,-0.104,1.908,0.0563578312645072
+Mental Health Composite,pronoun,-0.057,-0.18,1.855,0.0636357683472566
+Mental Health Composite,BigWords,0.085,0.204,-1.815,0.0695945441308247
+Mental Health Composite,swear,-0.019,-0.14,1.812,0.069940749503903
+Mental Health Composite,money,0.041,0.158,-1.759,0.0785687982439542
+Mental Health Composite,Physical,-0.338,-0.229,-1.759,0.0786436994285517
+Mental Health Composite,Dic,0.027,-0.087,1.705,0.0882204818732517
+Mental Health Composite,socrefs,0.014,-0.1,1.69,0.0911206209461945
+Mental Health Composite,adverb,-0.008,0.103,-1.664,0.0961894301891288
+Mental Health Composite,OtherP,0.013,-0.098,1.653,0.0984204687890311
+Mental Health Composite,male,-0.057,-0.166,1.637,0.1016215508995141
+Mental Health Composite,substances,-0.086,0.022,-1.601,0.1094521076311458
+Mental Health Composite,visual,0.032,-0.075,1.596,0.1105655074401996
+Mental Health Composite,verb,-0.026,-0.132,1.595,0.1107079557572354
+Mental Health Composite,Lifestyle,0.128,0.231,-1.588,0.112201502304686
+Mental Health Composite,tech,-0.051,0.051,-1.506,0.131949336141387
+Mental Health Composite,conj,-0.116,-0.017,-1.489,0.1365312477634384
+Mental Health Composite,work,0.101,0.198,-1.479,0.1392485854591036
+Mental Health Composite,socbehav,0.001,-0.097,1.468,0.1421198065881235
+Mental Health Composite,Linguistic,-0.049,-0.145,1.444,0.1487702995593756
+Mental Health Composite,fatigue,0.004,-0.09,1.397,0.1625583760824271
+Mental Health Composite,function,-0.058,-0.148,1.342,0.1794399579113075
+Mental Health Composite,want,0.043,-0.046,1.321,0.1863747423310922
+Mental Health Composite,auxverb,0.027,-0.061,1.318,0.1876691253055202
+Mental Health Composite,comm,-0.008,-0.095,1.292,0.1961864886215512
+Mental Health Composite,emo_neg,-0.226,-0.144,-1.265,0.2058605423403254
+Mental Health Composite,tone_neg,-0.281,-0.204,-1.203,0.2289174201713404
+Mental Health Composite,friend,0.067,-0.013,1.202,0.2294587362397286
+Mental Health Composite,memory,-0.075,0.003,-1.163,0.2447190523960347
+Mental Health Composite,focuspresent,-0.012,-0.085,1.095,0.2737015836207679
+Mental Health Composite,number,0.034,0.103,-1.037,0.2996103790514899
+Mental Health Composite,emo_pos,0.077,0.007,1.036,0.3001791930586881
+Mental Health Composite,discrep,0.067,-0.002,1.032,0.3022140626304397
+Mental Health Composite,politic,0.039,0.108,-1.031,0.3024171997205349
+Mental Health Composite,Exclam,0.002,0.071,-1.026,0.3048566672595161
+Mental Health Composite,moral,-0.085,-0.02,-0.965,0.3344622751596673
+Mental Health Composite,auditory,0.021,0.085,-0.964,0.3348133071363497
+Mental Health Composite,polite,-0.036,-0.099,0.943,0.34554342186944
+Mental Health Composite,emo_sad,-0.034,0.028,-0.916,0.3598591397738617
+Mental Health Composite,WPS,-0.033,0.028,-0.897,0.3696103468735527
+Mental Health Composite,they,0.004,-0.056,0.891,0.3728437013828984
+Mental Health Composite,netspeak,-0.121,-0.062,-0.883,0.3769767230872078
+Mental Health Composite,power,0.093,0.034,0.878,0.379946028849399
+Mental Health Composite,sexual,-0.09,-0.032,-0.867,0.3857851077727166
+Mental Health Composite,differ,-0.006,-0.064,0.864,0.3877308671476953
+Mental Health Composite,Tone,0.233,0.178,0.851,0.3946703089458165
+Mental Health Composite,leisure,0.104,0.159,-0.839,0.4016859063658486
+Mental Health Composite,we,0.127,0.072,0.823,0.4106814192820374
+Mental Health Composite,negate,-0.066,-0.121,0.818,0.4135197800699475
+Mental Health Composite,QMark,0.04,-0.013,0.79,0.4295085331469224
+Mental Health Composite,Period,0.048,-0.005,0.788,0.4306298805970816
+Mental Health Composite,ethnicity,0.006,0.059,-0.787,0.4312230214426253
+Mental Health Composite,allnone,0.017,-0.036,0.785,0.4324750958113714
+Mental Health Composite,conflict,-0.178,-0.127,-0.774,0.438695962678846
+Mental Health Composite,relig,-0.004,0.048,-0.769,0.4419671491048609
+Mental Health Composite,you,0.007,-0.045,0.768,0.4425536661485929
+Mental Health Composite,Perception,-0.031,-0.081,0.753,0.4516834962332494
+Mental Health Composite,risk,-0.095,-0.046,-0.739,0.4596995555296148
+Mental Health Composite,motion,-0.026,-0.075,0.734,0.4628336765292395
+Mental Health Composite,Analytic,0.062,0.11,-0.721,0.4710218913649271
+Mental Health Composite,focusfuture,0.01,-0.037,0.704,0.4811240554665223
+Mental Health Composite,prep,0.018,-0.027,0.674,0.5003106730830968
+Mental Health Composite,shehe,-0.135,-0.179,0.673,0.5008485238380618
+Mental Health Composite,attention,0.026,-0.016,0.637,0.5242965502041903
+Mental Health Composite,Comma,0.021,0.064,-0.633,0.5268819767286805
+Mental Health Composite,Clout,0.056,0.015,0.606,0.5447932698035078
+Mental Health Composite,family,0.038,-0.001,0.584,0.559312482214652
+Mental Health Composite,AllPunc,0.021,-0.018,0.584,0.5590073836069314
+Mental Health Composite,prosocial,-0.002,0.037,-0.578,0.5635488898493417
+Mental Health Composite,achieve,0.027,0.066,-0.576,0.5647858313211116
+Mental Health Composite,focuspast,-0.061,-0.023,-0.556,0.5779536307086095
+Mental Health Composite,emo_anger,-0.119,-0.083,-0.549,0.5829586961418953
+Mental Health Composite,i,-0.053,-0.089,0.538,0.5903176137415305
+Mental Health Composite,tentat,0.052,0.087,-0.526,0.5990510136737759
+Mental Health Composite,emo_anx,-0.104,-0.071,-0.493,0.622116307956083
+Mental Health Composite,adj,0.075,0.108,-0.487,0.6262305742604992
+Mental Health Composite,food,-0.042,-0.074,0.486,0.6272366748704388
+Mental Health Composite,space,-0.023,-0.055,0.475,0.6347890085679326
+Mental Health Composite,quantity,0.059,0.09,-0.465,0.6422841604795027
+Mental Health Composite,article,0.068,0.098,-0.454,0.6497454271879368
+Mental Health Composite,Cognition,0.057,0.027,0.453,0.650549003294997
+Mental Health Composite,wellness,-0.095,-0.065,-0.448,0.6539046748715873
+Mental Health Composite,acquire,-0.109,-0.083,-0.396,0.6920948856737374
+Mental Health Composite,Affect,-0.075,-0.053,-0.331,0.7409523395824342
+Mental Health Composite,ipron,-0.002,0.02,-0.327,0.7436737123806527
+Mental Health Composite,time,0.04,0.019,0.307,0.7589015981260387
+Mental Health Composite,curiosity,0.061,0.042,0.292,0.7706573811817747
+Mental Health Composite,feeling,-0.128,-0.109,-0.288,0.7732884250558432
+Mental Health Composite,Authentic,0.016,-0.002,0.258,0.7960817261450446
+Mental Health Composite,cogproc,0.056,0.039,0.255,0.7988856317274866
+Mental Health Composite,Drives,0.137,0.121,0.24,0.8103689360049253
+Mental Health Composite,mental,-0.136,-0.122,-0.214,0.8304115430401242
+Mental Health Composite,Conversation,-0.005,0.009,-0.207,0.8358695758509977
+Mental Health Composite,emotion,-0.07,-0.083,0.203,0.839050612963216
+Mental Health Composite,affiliation,0.102,0.091,0.175,0.8613284249005329
+Mental Health Composite,nonflu,0.009,0.02,-0.172,0.8631091696233528
+Mental Health Composite,cause,-0.014,-0.003,-0.164,0.8693821468683254
+Mental Health Composite,Apostro,-0.101,-0.091,-0.144,0.8856870764537952
+Mental Health Composite,reward,-0.023,-0.014,-0.125,0.9008270536392702
+Mental Health Composite,lack,0.023,0.029,-0.087,0.9306498455661372
+Mental Health Composite,insight,0.026,0.02,0.076,0.93907915176166
+Mental Health Composite,fulfill,-0.028,-0.033,0.074,0.9410083385601438
+Mental Health Composite,assent,0.026,0.031,-0.074,0.9411479395988502
+Mental Health Composite,filler,0.055,0.058,-0.044,0.965218950572871
+Mental Health Composite,tone_pos,0.089,0.086,0.033,0.973548989003685
+Mental Health Composite,death,-0.076,-0.078,0.031,0.9756161312149844
+Mental Health Composite,det,0.07,0.069,0.022,0.9825275290033988
+Mental Health Composite,female,-0.102,-0.1,-0.018,0.9853630740543816
+Mental Health Composite,need,-0.044,-0.044,0.003,0.9976305101771386

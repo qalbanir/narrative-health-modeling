@@ -1,0 +1,11 @@
+HSI scale,Type,White_n,White_M,White_SD,Black_n,Black_M,Black_SD,t,p,Cohens_d
+Physical functioning,Subscale,448,77.44,25.46,445,66.6,29.83,5.838,7.462087244861244e-09,0.391
+Role limitations due to physical health,Subscale,448,76.45,36.57,445,69.23,40.69,2.788,0.005423229295094206,0.187
+Role limitations due to emotional problems,Subscale,448,85.49,30.17,445,80.6,34.67,2.249,0.024777634027706937,0.151
+Energy/fatigue,Subscale,447,60.82,21.03,445,62.77,20.34,-1.406,0.160036304005156,-0.094
+Emotional well-being,Subscale,447,79.88,15.42,445,80.98,16.65,-1.022,0.30706532541131637,-0.068
+Social Functioning,Subscale,448,85.83,21.76,446,81.78,23.05,2.697,0.00712522104289519,0.18
+Pain,Subscale,448,73.98,22.8,446,69.51,26.78,2.688,0.007329243137020082,0.18
+General health,Subscale,448,70.41,20.46,446,64.6,21.34,4.159,3.5042687969344214e-05,0.278
+Physical Health Composite,Composite,448,74.57,22.34,444,67.53,25.4,4.392,1.258617336429946e-05,0.294
+Mental Health Composite,Composite,447,78.01,18.37,444,76.57,19.55,1.135,0.256850388062965,0.076

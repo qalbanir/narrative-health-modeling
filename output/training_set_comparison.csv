@@ -1,0 +1,41 @@
+HSI outcome,Trained on,Tested on,n,r,R2,MAE
+Physical functioning,Combined,White,448,0.429,0.175,0.601
+Physical functioning,Combined,Black,445,0.433,0.166,0.768
+Physical functioning,White,White,448,0.392,0.139,0.682
+Physical functioning,Black,Black,445,0.433,0.183,0.737
+Role limitations due to physical health,Combined,White,448,0.301,0.005,0.661
+Role limitations due to physical health,Combined,Black,445,0.314,-0.019,0.806
+Role limitations due to physical health,White,White,448,0.272,0.012,0.706
+Role limitations due to physical health,Black,Black,445,0.318,0.047,0.757
+Role limitations due to emotional problems,Combined,White,448,0.204,0.004,0.594
+Role limitations due to emotional problems,Combined,Black,445,0.162,-0.058,0.74
+Role limitations due to emotional problems,White,White,448,0.122,-0.071,0.618
+Role limitations due to emotional problems,Black,Black,445,0.084,-0.151,0.68
+Energy/fatigue,Combined,White,447,0.254,0.05,0.785
+Energy/fatigue,Combined,Black,445,0.349,0.119,0.737
+Energy/fatigue,White,White,447,0.188,0.009,0.786
+Energy/fatigue,Black,Black,445,0.228,0.042,0.778
+Emotional well-being,Combined,White,447,0.24,0.019,0.697
+Emotional well-being,Combined,Black,445,0.202,0.008,0.753
+Emotional well-being,White,White,447,0.211,-0.003,0.722
+Emotional well-being,Black,Black,445,0.229,0.021,0.721
+Social Functioning,Combined,White,448,0.325,0.104,0.697
+Social Functioning,Combined,Black,446,0.276,0.059,0.785
+Social Functioning,White,White,448,0.296,0.028,0.682
+Social Functioning,Black,Black,446,0.304,0.05,0.746
+Pain,Combined,White,448,0.338,0.111,0.69
+Pain,Combined,Black,446,0.25,0.034,0.86
+Pain,White,White,448,0.235,0.035,0.774
+Pain,Black,Black,446,0.369,0.127,0.768
+General health,Combined,White,448,0.412,0.167,0.71
+General health,Combined,Black,446,0.384,0.132,0.759
+General health,White,White,448,0.352,0.106,0.756
+General health,Black,Black,446,0.41,0.167,0.741
+Physical Health Composite,Combined,White,448,0.456,0.185,0.625
+Physical Health Composite,Combined,Black,444,0.511,0.244,0.728
+Physical Health Composite,White,White,448,0.409,0.151,0.709
+Physical Health Composite,Black,Black,444,0.43,0.176,0.741
+Mental Health Composite,Combined,White,447,0.389,0.113,0.619
+Mental Health Composite,Combined,Black,444,0.413,0.126,0.692
+Mental Health Composite,White,White,447,0.217,0.004,0.688
+Mental Health Composite,Black,Black,444,0.197,0.02,0.742

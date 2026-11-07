@@ -1,0 +1,2 @@
+run,n,n_White,n_Black,auc,accuracy,permutation_p,null_auc_mean
+phcpsmc,892,448,444,0.828,0.758,0.000999000999000999,0.499
